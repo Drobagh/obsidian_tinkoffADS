@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/wow.md",
+                "file": "New Folder/New note.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/wow.md",
+                "file": "New Folder/New note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/wow.md",
+                "file": "New Folder/New note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/wow.md"
+                "file": "New Folder/New note.md"
               }
             }
           }
@@ -163,6 +163,8 @@
   "active": "7a1a9f38b2f0aacf",
   "lastOpenFiles": [
     "Python/Welcome.md",
+    "New Folder/New note.md",
+    "New Folder",
     "Python/wow.md",
     "Lots of new.md",
     "Python/TryToSyncNote.md",
