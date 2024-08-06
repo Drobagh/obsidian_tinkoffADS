@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductStudio/GoPractice/LTV.md",
+                "file": "ProductStudio/GoPractice/Metrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,9 +85,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProductStudio/GoPractice/LTV.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "ProductStudio/GoPractice/Metrics.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProductStudio/GoPractice/LTV.md",
+                "file": "ProductStudio/GoPractice/Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductStudio/GoPractice/LTV.md"
+                "file": "ProductStudio/GoPractice/Metrics.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a1a9f38b2f0aacf",
+  "active": "c386f0aa3eb21e6e",
   "lastOpenFiles": [
-    "ProductStudio/GoPractice/Metrics.md",
     "ProductStudio/GoPractice/LTV.md",
+    "ProductStudio/GoPractice/Metrics.md",
     "ProductStudio/GoPractice/Contents_/Pasted image 20240806183610.png",
     "ProductStudio/GoPractice/Retention.md",
     "ProductStudio/GoPractice/Contents_/Pasted image 20240806183304.png",
