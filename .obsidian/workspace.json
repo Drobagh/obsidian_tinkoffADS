@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductStudio/GoPractice/Retention.md",
+                "file": "ProductStudio/GoPractice/Metrics.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProductStudio/GoPractice/Retention.md",
+                "file": "ProductStudio/GoPractice/Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProductStudio/GoPractice/Retention.md",
+                "file": "ProductStudio/GoPractice/Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductStudio/GoPractice/Retention.md"
+                "file": "ProductStudio/GoPractice/Metrics.md"
               }
             }
           }
@@ -148,8 +148,16 @@
   },
   "active": "7a1a9f38b2f0aacf",
   "lastOpenFiles": [
-    "Python/Welcome.md",
+    "ProductStudio/GoPractice/Contents_/Pasted image 20240806183610.png",
     "ProductStudio/GoPractice/Retention.md",
+    "ProductStudio/GoPractice/Contents_/Pasted image 20240806183304.png",
+    "ProductStudio/GoPractice/Contents_/Pasted image 20240806183304 1.png",
+    "ProductStudio/GoPractice/Contents_/Pasted image 20240806183322.png",
+    "ProductStudio/GoPractice/Metrics.md",
+    "ProductStudio/GoPractice/Contents_",
+    "Contents_",
+    "Contents_/Pasted image 20240806183102.png",
+    "Python/Welcome.md",
     "ProductStudio/Im the best.md",
     "ProductStudio/GoPractice",
     "New Folder/New note.md",
@@ -162,7 +170,6 @@
     "Tinkoff_ADS",
     "https:/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@github.com/<USERNAME>/<REPO>.git",
     "https:/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@github.com/<USERNAME>",
-    "https:/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@github.com",
-    "https:"
+    "https:/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@github.com"
   ]
 }
