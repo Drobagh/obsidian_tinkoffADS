@@ -13,24 +13,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Folder/New note.md",
+                "file": "Python/Welcome.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "7060a1a846bb5823",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "da67c20e841ce1e5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Folder/New note.md",
+                "file": "Python/Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Folder/New note.md",
+                "file": "Python/Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Folder/New note.md"
+                "file": "Python/Welcome.md"
               }
             }
           }
@@ -162,8 +148,8 @@
   },
   "active": "7a1a9f38b2f0aacf",
   "lastOpenFiles": [
-    "Python/Welcome.md",
     "New Folder/New note.md",
+    "Python/Welcome.md",
     "New Folder",
     "Python/wow.md",
     "Lots of new.md",
