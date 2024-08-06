@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Welcome.md",
+                "file": "Python/TryToSyncNote.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Welcome.md",
+                "file": "Python/TryToSyncNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Welcome.md",
+                "file": "Python/TryToSyncNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Welcome.md"
+                "file": "Python/TryToSyncNote.md"
               }
             }
           }
@@ -160,14 +160,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fa5c476569055aa",
+  "active": "7a1a9f38b2f0aacf",
   "lastOpenFiles": [
+    "Python/Welcome.md",
+    "Python/TryToSyncNote.md",
     "Python",
     "Tinkoff_ADS",
     "https:/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@github.com/<USERNAME>/<REPO>.git",
     "https:/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@github.com/<USERNAME>",
     "https:/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@github.com",
-    "https:",
-    "Python/Welcome.md"
+    "https:"
   ]
 }
