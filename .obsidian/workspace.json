@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lots of new.md",
+                "file": "Python/Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lots of new.md",
+                "file": "Python/Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lots of new.md",
+                "file": "Python/Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lots of new.md"
+                "file": "Python/Welcome.md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "7a1a9f38b2f0aacf",
   "lastOpenFiles": [
-    "Manager/Im the best.md",
-    "Lots of new.md",
     "Python/TryToSyncNote.md",
+    "Lots of new.md",
+    "Manager/Im the best.md",
     "Manager",
     "Python/wow.md",
     "Python/Welcome.md",
