@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Welcome.md",
+                "file": "ProductStudio/GoPractice/Retention.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Welcome.md",
+                "file": "ProductStudio/GoPractice/Retention.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Welcome.md",
+                "file": "ProductStudio/GoPractice/Retention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Welcome.md"
+                "file": "ProductStudio/GoPractice/Retention.md"
               }
             }
           }
@@ -148,14 +148,16 @@
   },
   "active": "7a1a9f38b2f0aacf",
   "lastOpenFiles": [
-    "New Folder/New note.md",
     "Python/Welcome.md",
+    "ProductStudio/GoPractice/Retention.md",
+    "ProductStudio/Im the best.md",
+    "ProductStudio/GoPractice",
+    "New Folder/New note.md",
     "New Folder",
     "Python/wow.md",
     "Lots of new.md",
     "Python/TryToSyncNote.md",
-    "Manager/Im the best.md",
-    "Manager",
+    "ProductStudio",
     "Python",
     "Tinkoff_ADS",
     "https:/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@github.com/<USERNAME>/<REPO>.git",
