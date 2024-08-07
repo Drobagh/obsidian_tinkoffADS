@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ProductStudio/GoPractice/Retention.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9dbbd6720f31f54d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "ProductStudio/GoPractice/Metrics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,12 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c386f0aa3eb21e6e",
+  "active": "9dbbd6720f31f54d",
   "lastOpenFiles": [
-    "ProductStudio/GoPractice/LTV.md",
-    "ProductStudio/GoPractice/Metrics.md",
-    "ProductStudio/GoPractice/Contents_/Pasted image 20240806183610.png",
     "ProductStudio/GoPractice/Retention.md",
+    "ProductStudio/GoPractice/MAU.md",
+    "ProductStudio/GoPractice/Contents_/Снимок экрана 2024-08-07 в 08.43.39.png",
+    "ProductStudio/GoPractice/Contents_/Pasted image 20240807084333.png",
+    "ProductStudio/GoPractice/Metrics.md",
+    "ProductStudio/GoPractice/LTV.md",
+    "ProductStudio/GoPractice/Contents_/Pasted image 20240806183610.png",
     "ProductStudio/GoPractice/Contents_/Pasted image 20240806183304.png",
     "ProductStudio/GoPractice/Contents_/Pasted image 20240806183304 1.png",
     "ProductStudio/GoPractice/Contents_/Pasted image 20240806183322.png",
