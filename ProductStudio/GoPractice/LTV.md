@@ -22,3 +22,8 @@ LTV — это ключевая метрика, отражающая **ценн
 
 ![пример расчета LTV](https://gopractice.ru/wp-content/uploads/2022/04/Frame-132-ru-1024x449.png)
 https://docs.google.com/spreadsheets/d/1CTxmVDc7Xcj_zxSE47mhPZMAkEKqLb6MCt2l3HCXwWI/edit?gid=0#gid=0
+# Продуктовая аналитика
+- Воронки
+![[Pasted image 20240809211559.png]]
+- Когортный анализ
+![[Pasted image 20240809211744.png]]
