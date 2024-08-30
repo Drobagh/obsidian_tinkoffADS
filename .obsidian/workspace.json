@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a1a9f38b2f0aacf",
+            "id": "9dbbd6720f31f54d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9dbbd6720f31f54d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProductStudio/GoPractice/LTV.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProductStudio/GoPractice/LTV.md",
+                "file": "ProductStudio/GoPractice/Retention.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProductStudio/GoPractice/LTV.md",
+                "file": "ProductStudio/GoPractice/Retention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductStudio/GoPractice/LTV.md"
+                "file": "ProductStudio/GoPractice/Retention.md"
               }
             }
           }
@@ -161,10 +148,10 @@
   },
   "active": "9dbbd6720f31f54d",
   "lastOpenFiles": [
-    "ProductStudio/GoPractice/Contents_/Снимок экрана 2024-08-07 в 08.43.39.png",
-    "ProductStudio/GoPractice/Metrics.md",
     "ProductStudio/GoPractice/LTV.md",
     "ProductStudio/GoPractice/Retention.md",
+    "ProductStudio/GoPractice/Contents_/Снимок экрана 2024-08-07 в 08.43.39.png",
+    "ProductStudio/GoPractice/Metrics.md",
     "ProductStudio/GoPractice/Contents_/Pasted image 20240809211744.png",
     "ProductStudio/GoPractice/Contents_/Pasted image 20240809211559.png",
     "ProductStudio/GoPractice/MAU.md",
