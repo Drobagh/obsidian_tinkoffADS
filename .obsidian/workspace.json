@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NES/MIF/Lesson1.md",
+                "file": "ProductStudio/GoPractice/Retention.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NES/MIF/Lesson1.md",
+                "file": "ProductStudio/GoPractice/Retention.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NES/MIF/Lesson1.md",
+                "file": "ProductStudio/GoPractice/Retention.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NES/MIF/Lesson1.md"
+                "file": "ProductStudio/GoPractice/Retention.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "9dbbd6720f31f54d",
   "lastOpenFiles": [
-    "ProductStudio/GoPractice/Retention.md",
     "NES/MIF/Lesson1.md",
+    "ProductStudio/GoPractice/Retention.md",
     "NES/MIF",
     "NES",
     "ProductStudio/GoPractice/LTV.md",
