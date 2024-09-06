@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 205.50390243530273
   },
   "right": {
     "id": "1a013386a136e124",
@@ -148,8 +148,10 @@
   },
   "active": "9dbbd6720f31f54d",
   "lastOpenFiles": [
-    "NES/MIF/Lesson1.md",
+    "Python/Welcome.md",
+    "Python/TryToSyncNote.md",
     "ProductStudio/GoPractice/Retention.md",
+    "NES/MIF/Lesson1.md",
     "NES/MIF",
     "NES",
     "ProductStudio/GoPractice/LTV.md",
@@ -167,14 +169,12 @@
     "ProductStudio/GoPractice/Contents_",
     "Contents_",
     "Contents_/Pasted image 20240806183102.png",
-    "Python/Welcome.md",
     "ProductStudio/Im the best.md",
     "ProductStudio/GoPractice",
     "New Folder/New note.md",
     "New Folder",
     "Python/wow.md",
     "Lots of new.md",
-    "Python/TryToSyncNote.md",
     "ProductStudio",
     "Python",
     "Tinkoff_ADS",
