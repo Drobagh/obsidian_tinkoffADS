@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductStudio/GoPractice/Retention.md",
+                "file": "ProductManagement/Case evenings/Seminar 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProductStudio/GoPractice/Retention.md",
+                "file": "ProductManagement/Case evenings/Seminar 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProductStudio/GoPractice/Retention.md",
+                "file": "ProductManagement/Case evenings/Seminar 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductStudio/GoPractice/Retention.md"
+                "file": "ProductManagement/Case evenings/Seminar 1.md"
               }
             }
           }
@@ -148,36 +148,37 @@
   },
   "active": "9dbbd6720f31f54d",
   "lastOpenFiles": [
+    "ProductManagement/GoPractice/Retention.md",
+    "ProductManagement/Case evenings/Seminar 1.md",
+    "ProductManagement/Case evenings",
     "Python/Welcome.md",
     "Python/TryToSyncNote.md",
-    "ProductStudio/GoPractice/Retention.md",
     "NES/MIF/Lesson1.md",
     "NES/MIF",
     "NES",
-    "ProductStudio/GoPractice/LTV.md",
-    "ProductStudio/GoPractice/Contents_/Снимок экрана 2024-08-07 в 08.43.39.png",
-    "ProductStudio/GoPractice/Metrics.md",
-    "ProductStudio/GoPractice/Contents_/Pasted image 20240809211744.png",
-    "ProductStudio/GoPractice/Contents_/Pasted image 20240809211559.png",
-    "ProductStudio/GoPractice/MAU.md",
-    "ProductStudio/GoPractice/Contents_/Pasted image 20240807155711.png",
-    "ProductStudio/GoPractice/Contents_/Pasted image 20240807084333.png",
-    "ProductStudio/GoPractice/Contents_/Pasted image 20240806183610.png",
+    "ProductManagement/GoPractice/LTV.md",
+    "ProductManagement/GoPractice/Contents_/Снимок экрана 2024-08-07 в 08.43.39.png",
+    "ProductManagement/GoPractice/Metrics.md",
+    "ProductManagement/GoPractice/Contents_/Pasted image 20240809211744.png",
+    "ProductManagement/GoPractice/Contents_/Pasted image 20240809211559.png",
+    "ProductManagement/GoPractice/MAU.md",
+    "ProductManagement/GoPractice/Contents_/Pasted image 20240807155711.png",
+    "ProductManagement/GoPractice/Contents_/Pasted image 20240807084333.png",
+    "ProductManagement/GoPractice/Contents_/Pasted image 20240806183610.png",
     "ProductStudio/GoPractice/Contents_/Pasted image 20240806183304.png",
     "ProductStudio/GoPractice/Contents_/Pasted image 20240806183304 1.png",
     "ProductStudio/GoPractice/Contents_/Pasted image 20240806183322.png",
-    "ProductStudio/GoPractice/Contents_",
+    "ProductManagement/GoPractice/Contents_",
     "Contents_",
     "Contents_/Pasted image 20240806183102.png",
     "ProductStudio/Im the best.md",
-    "ProductStudio/GoPractice",
+    "ProductManagement/GoPractice",
     "New Folder/New note.md",
     "New Folder",
     "Python/wow.md",
     "Lots of new.md",
-    "ProductStudio",
+    "ProductManagement",
     "Python",
-    "Tinkoff_ADS",
-    "https:/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@github.com/<USERNAME>/<REPO>.git"
+    "Tinkoff_ADS"
   ]
 }
