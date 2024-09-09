@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 1.md",
+                "file": "ProductManagement/ProductManagement/Seminar 1. Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.50390243530273
+    "width": 267.50390243530273
   },
   "right": {
     "id": "1a013386a136e124",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 1.md",
+                "file": "ProductManagement/ProductManagement/Seminar 1. Introduction.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 1.md",
+                "file": "ProductManagement/ProductManagement/Seminar 1. Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 1.md"
+                "file": "ProductManagement/ProductManagement/Seminar 1. Introduction.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "9dbbd6720f31f54d",
   "lastOpenFiles": [
+    "ProductManagement/Case evenings/Seminar 1.md",
+    "ProductManagement/ProductManagement/Seminar 1. Introduction.md",
+    "ProductManagement/ProductManagement",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 20.18.28.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 20.12.24.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 20.01.32.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 19.55.59.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 19.51.21.png",
@@ -156,11 +161,7 @@
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 19.40.35.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 19.33.32.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 19.29.45.png",
-    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 19.18.54.png",
-    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 19.18.45.png",
     "ProductManagement/Case evenings/Authors.md",
-    "ProductManagement/Case evenings/Seminar 1.md",
-    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 19.07.23.png",
     "ProductManagement/Case evenings/Contents_",
     "ProductManagement/GoPractice/Retention.md",
     "ProductManagement/Case evenings",
@@ -180,7 +181,6 @@
     "New Folder",
     "Python/wow.md",
     "Lots of new.md",
-    "ProductManagement",
-    "Python"
+    "ProductManagement"
   ]
 }
