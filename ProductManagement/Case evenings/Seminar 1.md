@@ -11,4 +11,6 @@
 ==Структурировать== - значит анализировать.
 
 ## Принцип MECE
-Mutually Exclusive + Collectively Exhaustive - 
+Mutually Exclusive + Collectively Exhaustive - «взаимно исключающие» + «совместно исчерпывающе»
+![[Снимок экрана 2024-09-09 в 19.40.35.png]]
+![[Снимок экрана 2024-09-09 в 19.41.06.png]]
