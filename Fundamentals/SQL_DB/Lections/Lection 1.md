@@ -3,7 +3,7 @@
 SQL - Structured Query Language
 
 # Базовые операции
-- SELECT
+## SELECT
 ![[Снимок экрана 2024-09-10 в 19.27.08.png]]
 ![[Снимок экрана 2024-09-10 в 19.33.08.png]]
 Очередность запроса:
@@ -11,6 +11,6 @@ SQL - Structured Query Language
 2. WHERE & GROUP & ORDER
 3. Затем SELECT
 
-- INSERT
-- UPDATE
-- DELETE
+## INSERT
+## UPDATE
+## DELETE
