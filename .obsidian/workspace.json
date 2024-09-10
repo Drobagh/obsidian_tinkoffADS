@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/ProductManagement/Seminar 1. Introduction.md",
+                "file": "Fundamentals/SQL_DB/Lections/Info.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProductManagement/ProductManagement/Seminar 1. Introduction.md",
+                "file": "Fundamentals/SQL_DB/Lections/Info.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProductManagement/ProductManagement/Seminar 1. Introduction.md",
+                "file": "Fundamentals/SQL_DB/Lections/Info.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/ProductManagement/Seminar 1. Introduction.md"
+                "file": "Fundamentals/SQL_DB/Lections/Info.md"
               }
             }
           }
@@ -148,13 +148,22 @@
   },
   "active": "9dbbd6720f31f54d",
   "lastOpenFiles": [
+    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-10 в 19.08.22.png",
+    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-10 в 19.06.44.png",
+    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-10 в 19.06.22.png",
     "Fundamentals/SQL_DB/Lections/Lection 1.md",
+    "Fundamentals/SQL_DB/Lections/Info.md",
+    "Fundamentals/SQL_DB/Authors.md",
+    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-10 в 19.04.09.png",
+    "Fundamentals/SQL_DB/Lections/Contents_",
+    "Fundamentals/SQL_DB/Contents_/Снимок экрана 2024-09-10 в 19.01.25.png",
+    "Fundamentals/SQL_DB/Contents_",
+    "ProductManagement/ProductManagement/Seminar 1. Introduction.md",
     "ProductManagement/Case evenings/Seminar 1.md",
     "Fundamentals/SQL_DB/Lections",
     "Fundamentals/SQL_DB",
     "Fundamentals",
     "ProductManagement/Case evenings/Authors.md",
-    "ProductManagement/ProductManagement/Seminar 1. Introduction.md",
     "ProductManagement/ProductManagement/Contents_/Снимок экрана 2024-09-09 в 21.39.25.png",
     "ProductManagement/ProductManagement/Contents_",
     "ProductManagement/ProductManagement",
@@ -163,10 +172,6 @@
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 20.01.32.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 19.55.59.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 19.51.21.png",
-    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 19.47.29.png",
-    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 19.41.06.png",
-    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 19.40.35.png",
-    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 19.33.32.png",
     "ProductManagement/Case evenings/Contents_",
     "ProductManagement/GoPractice/Retention.md",
     "ProductManagement/Case evenings",
@@ -174,11 +179,9 @@
     "Python/TryToSyncNote.md",
     "NES/MIF/Lesson1.md",
     "NES/MIF",
-    "NES",
     "ProductManagement/GoPractice/LTV.md",
     "ProductManagement/GoPractice/Metrics.md",
     "ProductManagement/GoPractice/MAU.md",
-    "ProductManagement/GoPractice/Contents_",
     "ProductStudio/Im the best.md",
     "New Folder/New note.md",
     "Python/wow.md",
