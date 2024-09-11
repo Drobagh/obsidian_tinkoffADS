@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 1.md",
+                "file": "Flex/MockInterview/Lection 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 1.md",
+                "file": "Flex/MockInterview/Lection 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 1.md",
+                "file": "Flex/MockInterview/Lection 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 1.md"
+                "file": "Flex/MockInterview/Lection 1.md"
               }
             }
           }
@@ -148,13 +148,18 @@
   },
   "active": "9dbbd6720f31f54d",
   "lastOpenFiles": [
+    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-11 в 19.11.30.png",
+    "Flex/MockInterview/Contents_",
+    "Fundamentals/SQL_DB/Lections/Lection 1.md",
+    "Flex/MockInterview/Lection 1.md",
+    "Flex/MockInterview",
+    "Flex",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-10 в 19.33.08.png",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-10 в 19.27.08.png",
     "Fundamentals/SQL_DB/Lections/Info.md",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-10 в 19.08.22.png",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-10 в 19.06.44.png",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-10 в 19.06.22.png",
-    "Fundamentals/SQL_DB/Lections/Lection 1.md",
     "Fundamentals/SQL_DB/Authors.md",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-10 в 19.04.09.png",
     "Fundamentals/SQL_DB/Lections/Contents_",
@@ -171,14 +176,10 @@
     "ProductManagement/ProductManagement",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 20.18.28.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 20.12.24.png",
-    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-09 в 20.01.32.png",
-    "ProductManagement/Case evenings/Contents_",
     "ProductManagement/GoPractice/Retention.md",
-    "ProductManagement/Case evenings",
     "Python/Welcome.md",
     "Python/TryToSyncNote.md",
     "NES/MIF/Lesson1.md",
-    "NES/MIF",
     "ProductManagement/GoPractice/LTV.md",
     "ProductManagement/GoPractice/Metrics.md",
     "ProductManagement/GoPractice/MAU.md",
