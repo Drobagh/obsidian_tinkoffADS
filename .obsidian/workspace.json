@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flex/MockInterview/Lection 1. Карьерная цель.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flex/MockInterview/Lection 1. Карьерная цель.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flex/MockInterview/Lection 1. Карьерная цель.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flex/MockInterview/Lection 1. Карьерная цель.md"
+                "file": "Fundamentals/Statistics/Lections/Lection 1.md"
               }
             }
           }
@@ -148,13 +148,16 @@
   },
   "active": "9dbbd6720f31f54d",
   "lastOpenFiles": [
+    "Flex/MockInterview/Lection 1. Карьерная цель.md",
+    "Fundamentals/Statistics/Lections/Lection 1.md",
+    "Fundamentals/Statistics/Lections",
+    "Fundamentals/Statistics",
     "Flex/MockInterview/Contents_/Снимок экрана 2024-09-11 в 20.05.46.png",
     "Flex/MockInterview/Contents_/Снимок экрана 2024-09-11 в 19.56.37.png",
     "Flex/MockInterview/Contents_/Снимок экрана 2024-09-11 в 19.43.26.png",
     "Flex/MockInterview/Contents_/Снимок экрана 2024-09-11 в 19.11.30.png",
     "Flex/MockInterview/Contents_",
     "Fundamentals/SQL_DB/Lections/Lection 1.md",
-    "Flex/MockInterview/Lection 1. Карьерная цель.md",
     "Flex/MockInterview",
     "Flex",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-10 в 19.33.08.png",
@@ -166,7 +169,6 @@
     "Fundamentals/SQL_DB/Authors.md",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-10 в 19.04.09.png",
     "Fundamentals/SQL_DB/Lections/Contents_",
-    "Fundamentals/SQL_DB/Contents_/Снимок экрана 2024-09-10 в 19.01.25.png",
     "Fundamentals/SQL_DB/Contents_",
     "ProductManagement/ProductManagement/Seminar 1. Introduction.md",
     "ProductManagement/Case evenings/Seminar 1.md",
@@ -174,8 +176,6 @@
     "Fundamentals/SQL_DB",
     "Fundamentals",
     "ProductManagement/Case evenings/Authors.md",
-    "ProductManagement/ProductManagement/Contents_",
-    "ProductManagement/ProductManagement",
     "ProductManagement/GoPractice/Retention.md",
     "Python/Welcome.md",
     "Python/TryToSyncNote.md",
