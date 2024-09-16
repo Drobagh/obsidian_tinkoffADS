@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
+                "file": "ProductManagement/ProductMetrics/Seminar 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
+                "file": "ProductManagement/ProductMetrics/Seminar 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/ProductMetrics/Seminar 1. Introduction.md"
+                "file": "ProductManagement/ProductMetrics/Seminar 2.md"
               }
             }
           }
@@ -193,10 +193,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "47820d7c2abd4891",
+  "active": "9c8e95abd9f02e95",
   "lastOpenFiles": [
-    "ProductManagement/ProductMetrics/Seminar 2.md",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
+    "ProductManagement/ProductMetrics/Seminar 2.md",
     "Untitled",
     "ProductManagement/Case evenings/Seminar 2.md",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-16 в 20.17.07.png",
