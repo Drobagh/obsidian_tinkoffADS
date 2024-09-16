@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 1.md",
+                "file": "ProductManagement/Case evenings/Seminar 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 1.md",
+                "file": "ProductManagement/Case evenings/Seminar 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 1.md",
+                "file": "ProductManagement/Case evenings/Seminar 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 1.md"
+                "file": "ProductManagement/Case evenings/Seminar 1.md"
               }
             }
           }
@@ -148,11 +148,11 @@
   },
   "active": "9dbbd6720f31f54d",
   "lastOpenFiles": [
+    "Fundamentals/SQL_DB/Lections/Lection 1.md",
     "Fundamentals/SQL_DB/Lections/Contents_/Pasted image 20240915134336.png",
     "Fundamentals/SQL_DB/Lections/Contents_/Pasted image 20240915134253.png",
     "Fundamentals/SQL_DB/Lections/Contents_/Pasted image 20240915133943.png",
     "Fundamentals/SQL_DB/Lections/Info.md",
-    "Fundamentals/SQL_DB/Lections/Lection 1.md",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-13 в 21.00.47.png",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-13 в 19.50.30.png",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-13 в 19.36.25.png",
@@ -164,7 +164,6 @@
     "Flex/MockInterview/Lection 1. Карьерная цель.md",
     "Fundamentals/Statistics/Lections",
     "Fundamentals/Statistics",
-    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-11 в 20.05.46.png",
     "Flex/MockInterview/Contents_",
     "Flex/MockInterview",
     "Flex",
