@@ -18,8 +18,43 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a3eff1b38febdfb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProductManagement/Case evenings/Seminar 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47820d7c2abd4891",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProductManagement/Case evenings/Seminar 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aefd8294820b7cf8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-16 в 19.13.06.png"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 1.md",
+                "file": "ProductManagement/Case evenings/Seminar 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 1.md",
+                "file": "ProductManagement/Case evenings/Seminar 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 1.md"
+                "file": "ProductManagement/Case evenings/Seminar 2.md"
               }
             }
           }
@@ -146,20 +181,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9dbbd6720f31f54d",
+  "active": "47820d7c2abd4891",
   "lastOpenFiles": [
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-16 в 19.46.19.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-16 в 19.38.36.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-16 в 19.36.51.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-16 в 19.32.52.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-16 в 19.23.21.png",
+    "ProductManagement/Case evenings/Seminar 1.md",
+    "ProductManagement/Case evenings/Authors.md",
+    "ProductManagement/Case evenings/Seminar 2.md",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-16 в 19.14.43.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-16 в 19.13.06.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-16 в 19.14.18.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-16 в 19.12.07.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-16 в 19.05.39.png",
     "Fundamentals/SQL_DB/Lections/Lection 1.md",
     "Fundamentals/SQL_DB/Lections/Contents_/Pasted image 20240915134336.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/Pasted image 20240915134253.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/Pasted image 20240915133943.png",
     "Fundamentals/SQL_DB/Lections/Info.md",
-    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-13 в 21.00.47.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-13 в 19.50.30.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-13 в 19.36.25.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-13 в 19.35.29.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-13 в 19.34.36.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-13 в 19.24.48.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-13 в 19.22.15.png",
     "Fundamentals/Statistics/Lections/Lection 1.md",
     "Flex/MockInterview/Lection 1. Карьерная цель.md",
     "Fundamentals/Statistics/Lections",
@@ -171,11 +210,9 @@
     "Fundamentals/SQL_DB/Lections/Contents_",
     "Fundamentals/SQL_DB/Contents_",
     "ProductManagement/ProductManagement/Seminar 1. Introduction.md",
-    "ProductManagement/Case evenings/Seminar 1.md",
     "Fundamentals/SQL_DB/Lections",
     "Fundamentals/SQL_DB",
     "Fundamentals",
-    "ProductManagement/Case evenings/Authors.md",
     "ProductManagement/GoPractice/Retention.md",
     "Python/Welcome.md",
     "Python/TryToSyncNote.md",
