@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/ProductMetrics/Seminar 2.md",
+                "file": "Fundamentals/SQL_DB/Lections/Lection 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "729f0f4c03142ddb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fundamentals/SQL_DB/Lections/Lection 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProductManagement/ProductMetrics/Seminar 2.md",
+                "file": "Fundamentals/SQL_DB/Lections/Lection 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProductManagement/ProductMetrics/Seminar 2.md",
+                "file": "Fundamentals/SQL_DB/Lections/Lection 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/ProductMetrics/Seminar 2.md"
+                "file": "Fundamentals/SQL_DB/Lections/Lection 2.md"
               }
             }
           }
@@ -193,8 +205,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9c8e95abd9f02e95",
+  "active": "729f0f4c03142ddb",
   "lastOpenFiles": [
+    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-17 в 19.04.48.png",
+    "Fundamentals/SQL_DB/Lections/Lection 1.md",
+    "Fundamentals/SQL_DB/Lections/Lection 2.md",
+    "Flex/MockInterview/Lection 1. Карьерная цель.md",
+    "ProductManagement/ProductMetrics/Seminar 2.md",
     "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-16 в 22.01.26.png",
     "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-16 в 22.01.07.png",
     "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-16 в 21.59.20.png",
@@ -206,16 +223,12 @@
     "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-16 в 21.38.14.png",
     "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-16 в 21.37.49.png",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
-    "ProductManagement/ProductMetrics/Seminar 2.md",
-    "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-16 в 20.58.19.png",
     "Untitled",
     "ProductManagement/Case evenings/Seminar 2.md",
     "ProductManagement/Case evenings/Seminar 1.md",
     "ProductManagement/Case evenings/Authors.md",
-    "Fundamentals/SQL_DB/Lections/Lection 1.md",
     "Fundamentals/SQL_DB/Lections/Info.md",
     "Fundamentals/Statistics/Lections/Lection 1.md",
-    "Flex/MockInterview/Lection 1. Карьерная цель.md",
     "Fundamentals/Statistics/Lections",
     "Fundamentals/Statistics",
     "Flex/MockInterview/Contents_",
