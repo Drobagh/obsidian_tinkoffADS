@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 2.md",
+                "file": "Fundamentals/Python/Practice 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 2.md",
+                "file": "Fundamentals/Python/Practice 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 2.md",
+                "file": "Fundamentals/Python/Practice 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 2.md"
+                "file": "Fundamentals/Python/Practice 2.md"
               }
             }
           }
@@ -207,21 +207,23 @@
   },
   "active": "729f0f4c03142ddb",
   "lastOpenFiles": [
+    "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 21.15.25.png",
+    "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 21.11.33.png",
+    "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 21.10.23.png",
+    "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 21.05.01.png",
+    "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 21.01.06.png",
+    "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 21.00.29.png",
+    "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 20.59.26.png",
+    "Fundamentals/Python/Contents_",
+    "Fundamentals/SQL_DB/Lections/Lection 2.md",
+    "Fundamentals/Python/Practice 2.md",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-17 в 19.52.52.png",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-17 в 19.44.52.png",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-17 в 19.44.40.png",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-17 в 19.41.11.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-17 в 19.40.05.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-17 в 19.34.47.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-17 в 19.04.48.png",
     "Fundamentals/SQL_DB/Lections/Lection 1.md",
-    "Fundamentals/SQL_DB/Lections/Lection 2.md",
     "Flex/MockInterview/Lection 1. Карьерная цель.md",
     "ProductManagement/ProductMetrics/Seminar 2.md",
-    "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-16 в 22.01.26.png",
-    "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-16 в 22.01.07.png",
-    "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-16 в 21.59.20.png",
-    "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-16 в 21.58.41.png",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
     "Untitled",
     "ProductManagement/Case evenings/Seminar 2.md",
@@ -238,7 +240,6 @@
     "Fundamentals/SQL_DB/Lections/Contents_",
     "Fundamentals/SQL_DB/Contents_",
     "Fundamentals/SQL_DB/Lections",
-    "Fundamentals/SQL_DB",
     "ProductManagement/GoPractice/Retention.md",
     "Python/Welcome.md",
     "Python/TryToSyncNote.md",
