@@ -59,9 +59,11 @@
             "id": "729f0f4c03142ddb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Contents_/IMG_3133.jpeg"
+                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -142,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Contents_/IMG_3133.jpeg",
+                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Contents_/IMG_3133.jpeg",
+                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Contents_/IMG_3133.jpeg"
+                "file": "Fundamentals/Statistics/Lections/Lection 1.md"
               }
             }
           }
@@ -205,8 +207,9 @@
   },
   "active": "729f0f4c03142ddb",
   "lastOpenFiles": [
-    "Fundamentals/Statistics/Lections/Lection 1.md",
+    "Fundamentals/SQL_DB/Lections/Lection 2.md",
     "Fundamentals/Statistics/Lections/Contents_/IMG_3133.jpeg",
+    "Fundamentals/Statistics/Lections/Lection 1.md",
     "Fundamentals/Statistics/Lections/Contents_",
     "Fundamentals/SQL_DB/Lections/Lection 1.md",
     "Fundamentals/Python/Practice 2.md",
@@ -218,7 +221,6 @@
     "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 21.00.29.png",
     "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 20.59.26.png",
     "Fundamentals/Python/Contents_",
-    "Fundamentals/SQL_DB/Lections/Lection 2.md",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-17 в 19.52.52.png",
     "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-17 в 19.44.52.png",
     "Flex/MockInterview/Lection 1. Карьерная цель.md",
