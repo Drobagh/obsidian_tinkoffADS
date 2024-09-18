@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
+                "file": "Flex/MockInterview/Lection 1. Карьерная цель.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d910ae50a6b03d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flex/MockInterview/Lection 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
+                "file": "Flex/MockInterview/Lection 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
+                "file": "Flex/MockInterview/Lection 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 1.md"
+                "file": "Flex/MockInterview/Lection 2.md"
               }
             }
           }
@@ -193,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,11 +218,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "729f0f4c03142ddb",
+  "active": "5d910ae50a6b03d4",
   "lastOpenFiles": [
+    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 19.39.05.png",
+    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 19.36.03.png",
+    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 19.34.32.png",
+    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 19.31.59.png",
+    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 19.29.38.png",
+    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 19.09.17.png",
+    "Flex/MockInterview/Lection 1. Карьерная цель.md",
+    "Flex/MockInterview/Lection 2.md",
+    "Fundamentals/Statistics/Lections/Lection 1.md",
     "Fundamentals/SQL_DB/Lections/Lection 2.md",
     "Fundamentals/Statistics/Lections/Contents_/IMG_3133.jpeg",
-    "Fundamentals/Statistics/Lections/Lection 1.md",
     "Fundamentals/Statistics/Lections/Contents_",
     "Fundamentals/SQL_DB/Lections/Lection 1.md",
     "Fundamentals/Python/Practice 2.md",
@@ -217,13 +238,7 @@
     "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 21.11.33.png",
     "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 21.10.23.png",
     "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 21.05.01.png",
-    "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 21.01.06.png",
-    "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 21.00.29.png",
-    "Fundamentals/Python/Contents_/Снимок экрана 2024-09-17 в 20.59.26.png",
     "Fundamentals/Python/Contents_",
-    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-17 в 19.52.52.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/Снимок экрана 2024-09-17 в 19.44.52.png",
-    "Flex/MockInterview/Lection 1. Карьерная цель.md",
     "ProductManagement/ProductMetrics/Seminar 2.md",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
     "Untitled",
