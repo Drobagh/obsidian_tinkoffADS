@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flex/День Аналитика.md",
+                "file": "Flex/День Карьеры. Аналитик.md",
                 "mode": "source",
                 "source": false
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flex/День Аналитика.md",
+                "file": "Flex/День Карьеры. Аналитик.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flex/День Аналитика.md",
+                "file": "Flex/День Карьеры. Аналитик.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flex/День Аналитика.md"
+                "file": "Flex/День Карьеры. Аналитик.md"
               }
             }
           }
@@ -244,8 +244,10 @@
   },
   "active": "7cc3141cae272476",
   "lastOpenFiles": [
+    "Flex/Contents_/Снимок экрана 2024-09-20 в 19.27.10.png",
+    "Flex/Contents_",
     "Fundamentals/Python/Lections/Untitled.md",
-    "Flex/День Аналитика.md",
+    "Flex/День Карьеры. Аналитик.md",
     "Fundamentals/Python/Lections/Lection 2. Факторный анализ.md",
     "Fundamentals/Python/Practice",
     "Fundamentals/Python/Lections",
@@ -280,7 +282,6 @@
     "Flex/MockInterview",
     "Flex",
     "Fundamentals/SQL_DB/Authors.md",
-    "Fundamentals/SQL_DB/Lections/Contents_",
     "ProductManagement/GoPractice/Retention.md",
     "Python/Welcome.md",
     "Python/TryToSyncNote.md",
@@ -288,7 +289,6 @@
     "ProductManagement/GoPractice/LTV.md",
     "ProductManagement/GoPractice/Metrics.md",
     "ProductManagement/GoPractice/MAU.md",
-    "ProductStudio/Im the best.md",
-    "New Folder/New note.md"
+    "ProductStudio/Im the best.md"
   ]
 }
