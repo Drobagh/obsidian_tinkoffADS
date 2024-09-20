@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flex/MockInterview/Lection 2.md",
+                "file": "Fundamentals/Python/Lections/Lection 2. Факторный анализ.md",
                 "mode": "source",
                 "source": false
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flex/MockInterview/Lection 2.md",
+                "file": "Fundamentals/Python/Lections/Lection 2. Факторный анализ.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flex/MockInterview/Lection 2.md",
+                "file": "Fundamentals/Python/Lections/Lection 2. Факторный анализ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flex/MockInterview/Lection 2.md"
+                "file": "Fundamentals/Python/Lections/Lection 2. Факторный анализ.md"
               }
             }
           }
@@ -232,8 +232,12 @@
   },
   "active": "009f669a5ed534d5",
   "lastOpenFiles": [
-    "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
+    "Fundamentals/Python/Practice",
+    "Fundamentals/Python/Lections",
+    "Fundamentals/Python/Practice/Practice 2. Факторный анализ.md",
+    "Fundamentals/Python/Lections/Lection 2. Факторный анализ.md",
     "Flex/MockInterview/Lection 2.md",
+    "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
     "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 20.30.06.png",
     "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 20.12.54.png",
     "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 19.44.27.png",
@@ -249,11 +253,9 @@
     "Fundamentals/Statistics/Lections/Contents_/IMG_3133.jpeg",
     "Fundamentals/Statistics/Lections/Contents_",
     "Fundamentals/SQL_DB/Lections/Lection 1.md",
-    "Fundamentals/Python/Practice 2.md",
     "Fundamentals/Python/Contents_",
     "ProductManagement/ProductMetrics/Seminar 2.md",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
-    "Untitled",
     "ProductManagement/Case evenings/Seminar 2.md",
     "ProductManagement/Case evenings/Seminar 1.md",
     "ProductManagement/Case evenings/Authors.md",
@@ -275,7 +277,6 @@
     "ProductManagement/GoPractice/MAU.md",
     "ProductStudio/Im the best.md",
     "New Folder/New note.md",
-    "Python/wow.md",
-    "Lots of new.md"
+    "Python/wow.md"
   ]
 }
