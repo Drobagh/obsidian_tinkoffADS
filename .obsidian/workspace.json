@@ -4,117 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5a050c5daab8bc35",
+        "id": "7204db3a8d5330cd",
         "type": "tabs",
         "children": [
           {
-            "id": "9dbbd6720f31f54d",
+            "id": "6eb2c33bbd6c4666",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 1.md",
+                "file": "ProductManagement/ProductMetrics/Seminar 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a3eff1b38febdfb0",
+            "id": "8d7574e00247092e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 1.md",
+                "file": "ProductManagement/ProductMetrics/Seminar 2.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "47820d7c2abd4891",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c8e95abd9f02e95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "729f0f4c03142ddb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flex/MockInterview/Lection 1. Карьерная цель.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d910ae50a6b03d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flex/MockInterview/Lection 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "009f669a5ed534d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fundamentals/Python/Lections/Lection 2. Факторный анализ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cc3141cae272476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Flex/День Карьеры. Аналитик.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aefd8294820b7cf8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-16 в 19.13.06.png"
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flex/День Карьеры. Аналитик.md",
+                "file": "ProductManagement/ProductMetrics/Seminar 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -197,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Flex/День Карьеры. Аналитик.md",
+                "file": "ProductManagement/ProductMetrics/Seminar 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flex/День Карьеры. Аналитик.md"
+                "file": "ProductManagement/ProductMetrics/Seminar 2.md"
               }
             }
           }
@@ -229,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -242,37 +159,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7cc3141cae272476",
+  "active": "8d7574e00247092e",
   "lastOpenFiles": [
-    "Flex/Contents_/Снимок экрана 2024-09-20 в 20.05.45.png",
-    "Flex/Contents_/Снимок экрана 2024-09-20 в 20.04.47.png",
-    "Flex/Contents_/Снимок экрана 2024-09-20 в 20.01.52.png",
-    "Flex/Contents_/Снимок экрана 2024-09-20 в 19.27.10.png",
+    "ProductManagement/ProductMetrics/Seminar 3.md",
+    "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-23 в 20.47.54.png",
+    "ProductManagement/ProductMetrics/Seminar 2.md",
+    "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-23 в 20.38.07.png",
+    "ProductManagement/Case evenings/Seminar 3.md",
+    "ProductManagement/Case evenings/Seminar 2.md",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-23 в 20.14.50.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-23 в 20.14.08.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-23 в 20.12.44.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-23 в 20.11.43.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-23 в 20.02.12.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-23 в 19.43.15.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-23 в 19.36.48.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-23 в 19.36.26.png",
+    "Fundamentals/Python/Lections/Lection 2. Факторный анализ.md",
+    "Flex/MockInterview/Lection 2.md",
+    "Flex/MockInterview/Lection 1. Карьерная цель.md",
+    "Fundamentals/SQL_DB/Lections/Lection 1.md",
+    "Flex/День Карьеры. Аналитик.md",
     "Flex/Contents_",
     "Fundamentals/Python/Lections/Untitled.md",
-    "Flex/День Карьеры. Аналитик.md",
-    "Fundamentals/Python/Lections/Lection 2. Факторный анализ.md",
     "Fundamentals/Python/Practice",
     "Fundamentals/Python/Lections",
     "Fundamentals/Python/Practice/Practice 2. Факторный анализ.md",
-    "Flex/MockInterview/Lection 2.md",
     "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
-    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 20.30.06.png",
-    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 20.12.54.png",
-    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 19.44.27.png",
-    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 19.39.05.png",
-    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 19.36.03.png",
-    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 19.34.32.png",
-    "Flex/MockInterview/Contents_/Снимок экрана 2024-09-18 в 19.31.59.png",
-    "Flex/MockInterview/Lection 1. Карьерная цель.md",
     "Fundamentals/Statistics/Lections/Lection 1.md",
     "Fundamentals/SQL_DB/Lections/Lection 2.md",
     "Fundamentals/Statistics/Lections/Contents_",
-    "Fundamentals/SQL_DB/Lections/Lection 1.md",
     "Fundamentals/Python/Contents_",
-    "ProductManagement/ProductMetrics/Seminar 2.md",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
-    "ProductManagement/Case evenings/Seminar 2.md",
     "ProductManagement/Case evenings/Seminar 1.md",
     "ProductManagement/Case evenings/Authors.md",
     "Fundamentals/SQL_DB/Lections/Info.md",
@@ -287,8 +205,6 @@
     "Python/TryToSyncNote.md",
     "NES/MIF/Lesson1.md",
     "ProductManagement/GoPractice/LTV.md",
-    "ProductManagement/GoPractice/Metrics.md",
-    "ProductManagement/GoPractice/MAU.md",
-    "ProductStudio/Im the best.md"
+    "ProductManagement/GoPractice/Metrics.md"
   ]
 }
