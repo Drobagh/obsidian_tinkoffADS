@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 3..md",
+                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 3..md",
+                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 3..md",
+                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 3..md"
+                "file": "Fundamentals/Statistics/Lections/Lection 1.md"
               }
             }
           }
@@ -160,19 +160,20 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
+    "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
+    "Fundamentals/Statistics/Lections/Lection 3..md",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-27 в 12.47.46.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-27 в 12.46.56.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-27 в 12.46.11.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-27 в 12.45.16.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-27 в 12.44.15.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-27 в 12.43.16.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-27 в 12.42.38.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-27 в 12.41.20.png",
+    "Fundamentals/Statistics/Lections/Lection 1.md",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-25 в 21.59.36.png",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-25 в 21.53.18.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-25 в 21.48.38.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-25 в 21.37.30.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-25 в 21.32.42.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-25 в 21.31.01.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-25 в 21.29.25.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-25 в 21.26.44.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-25 в 21.26.01.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-25 в 21.24.32.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-09-25 в 21.19.55.png",
     "Fundamentals/Python/Practice/Practice 2. Факторный анализ.md",
-    "Fundamentals/Statistics/Lections/Lection 3..md",
     "Fundamentals/SQL_DB/Lections/Lection 3.md",
     "Fundamentals/SQL_DB/Lections/Lection 2.md",
     "ProductManagement/ProductMetrics/Seminar 3.md",
@@ -189,8 +190,6 @@
     "Fundamentals/Python/Lections/Untitled.md",
     "Fundamentals/Python/Practice",
     "Fundamentals/Python/Lections",
-    "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
-    "Fundamentals/Statistics/Lections/Lection 1.md",
     "Fundamentals/Statistics/Lections/Contents_",
     "Fundamentals/Python/Contents_",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
