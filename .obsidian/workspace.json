@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md",
+                "file": "Fundamentals/SQL_DB/Lections/Lection 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md",
+                "file": "Fundamentals/SQL_DB/Lections/Lection 2.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md",
+                "file": "Fundamentals/SQL_DB/Lections/Lection 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md"
+                "file": "Fundamentals/SQL_DB/Lections/Lection 2.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
+    "Fundamentals/SQL_DB/Lections/Lection 3.md",
+    "Fundamentals/SQL_DB/Lections/Lection 2.md",
     "Fundamentals/SQL_DB/Lections/Contents_/Pasted image 20241001020623.png",
     "Fundamentals/SQL_DB/Lections/Lection 1.md",
     "ProductManagement/Case evenings/Seminar 2.md",
@@ -161,10 +163,7 @@
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-30 в 20.06.05.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-30 в 20.03.18.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-30 в 19.53.09.png",
-    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-09-30 в 19.47.23.png",
     "ProductManagement/Case evenings/Seminar 3.md",
-    "Fundamentals/SQL_DB/Lections/Lection 2.md",
-    "Fundamentals/SQL_DB/Lections/Lection 3.md",
     "Fundamentals/Python for AD/Practice/Practice 2. Факторный анализ.md",
     "Fundamentals/Statistics/Lections/Lection 1.md",
     "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
