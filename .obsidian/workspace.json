@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
+                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
+                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
+                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md"
+                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md"
               }
             }
           }
@@ -148,10 +148,15 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
+    "Fundamentals/SQL_DB/Lections/Lection 2.md",
+    "Fundamentals/SQL_DB/Lections/Lection 1.md",
+    "Fundamentals/SQL_DB/Lections/Lection 3.md",
+    "ProductManagement/ProductMetrics/Seminar 2.md",
+    "ProductManagement/ProductMetrics/Seminar 3.md",
+    "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-05 в 12.20.29.png",
     "ProductManagement/Case evenings/Seminar 2.md",
     "ProductManagement/Case evenings/Seminar 3.md",
-    "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.57.54.png",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.57.38.png",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.54.01.png",
@@ -162,19 +167,13 @@
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.37.32.png",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.21.52.png",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.17.36.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.15.42.png",
     "Fundamentals/Statistics/Lections/Lection 3..md",
-    "Fundamentals/SQL_DB/Lections/Lection 1.md",
     "Flex/MockInterview/Lection 4.md",
-    "Fundamentals/SQL_DB/Lections/Lection 2.md",
     "Fundamentals/SQL_DB/Lections/Info.md",
-    "Fundamentals/SQL_DB/Lections/Lection 3.md",
     "ProductManagement/Case evenings/Seminar 4.md",
     "Fundamentals/Python for AD/Practice/Practice 2. Факторный анализ.md",
     "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
-    "ProductManagement/ProductMetrics/Seminar 3.md",
     "Fundamentals/Python for AD/Practice/Contents_",
-    "ProductManagement/ProductMetrics/Seminar 2.md",
     "Fundamentals/Python for AD/Lections/Lection 2. Факторный анализ.md",
     "Flex/MockInterview/Lection 2.md",
     "Flex/MockInterview/Lection 1. Карьерная цель.md",
