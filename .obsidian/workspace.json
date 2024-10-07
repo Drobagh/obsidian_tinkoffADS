@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md",
+                "file": "ProductManagement/Case evenings/Seminar 4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md",
+                "file": "ProductManagement/Case evenings/Seminar 4.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md",
+                "file": "ProductManagement/Case evenings/Seminar 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md"
+                "file": "ProductManagement/Case evenings/Seminar 4.md"
               }
             }
           }
@@ -148,29 +148,30 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
+    "ProductManagement/Case evenings/Seminar 3.md",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 18.03.49.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 18.03.08.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 18.02.56.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 18.02.45.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 18.02.32.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 18.01.57.png",
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 18.01.20.png",
+    "ProductManagement/Case evenings/Seminar 2.md",
+    "ProductManagement/Case evenings/Seminar 1.md",
+    "ProductManagement/Case evenings/Seminar 4.md",
+    "Fundamentals/SQL_DB/Lections/Lection 3.md",
     "Fundamentals/SQL_DB/Lections/Lection 2.md",
     "Fundamentals/SQL_DB/Lections/Lection 1.md",
-    "Fundamentals/SQL_DB/Lections/Lection 3.md",
     "ProductManagement/ProductMetrics/Seminar 2.md",
     "ProductManagement/ProductMetrics/Seminar 3.md",
     "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-05 в 12.20.29.png",
-    "ProductManagement/Case evenings/Seminar 2.md",
-    "ProductManagement/Case evenings/Seminar 3.md",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.57.54.png",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.57.38.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.54.01.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.51.20.png",
     "Fundamentals/Statistics/Lections/Lection 1.md",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.47.31.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.45.29.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.37.32.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.21.52.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-02 в 21.17.36.png",
     "Fundamentals/Statistics/Lections/Lection 3..md",
     "Flex/MockInterview/Lection 4.md",
     "Fundamentals/SQL_DB/Lections/Info.md",
-    "ProductManagement/Case evenings/Seminar 4.md",
     "Fundamentals/Python for AD/Practice/Practice 2. Факторный анализ.md",
     "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
     "Fundamentals/Python for AD/Practice/Contents_",
@@ -185,7 +186,6 @@
     "Fundamentals/Statistics/Lections/Contents_",
     "Fundamentals/Python for AD/Contents_",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
-    "ProductManagement/Case evenings/Seminar 1.md",
     "ProductManagement/Case evenings/Authors.md",
     "Fundamentals/Statistics/Lections",
     "Fundamentals/Statistics",
