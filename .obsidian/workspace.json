@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 4.md",
+                "file": "ProductManagement/Case evenings/Seminar 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 4.md",
+                "file": "ProductManagement/Case evenings/Seminar 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 4.md",
+                "file": "ProductManagement/Case evenings/Seminar 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 4.md"
+                "file": "ProductManagement/Case evenings/Seminar 3.md"
               }
             }
           }
@@ -148,7 +148,9 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
+    "ProductManagement/Case evenings/Seminar 2.md",
     "ProductManagement/Case evenings/Seminar 3.md",
+    "ProductManagement/Case evenings/Seminar 4.md",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 18.03.49.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 18.03.08.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 18.02.56.png",
@@ -156,9 +158,7 @@
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 18.02.32.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 18.01.57.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 18.01.20.png",
-    "ProductManagement/Case evenings/Seminar 2.md",
     "ProductManagement/Case evenings/Seminar 1.md",
-    "ProductManagement/Case evenings/Seminar 4.md",
     "Fundamentals/SQL_DB/Lections/Lection 3.md",
     "Fundamentals/SQL_DB/Lections/Lection 2.md",
     "Fundamentals/SQL_DB/Lections/Lection 1.md",
