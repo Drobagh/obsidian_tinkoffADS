@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/ProductMetrics/Seminar 4.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProductManagement/ProductMetrics/Seminar 4.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProductManagement/ProductMetrics/Seminar 4.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/ProductMetrics/Seminar 4.md"
+                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md"
               }
             }
           }
@@ -148,19 +148,20 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
+    "Fundamentals/Statistics/Lections/Lection 5.md",
+    "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
+    "ProductManagement/ProductMetrics/Seminar 4.md",
     "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-10-07 в 21.01.02.png",
     "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-10-07 в 20.53.06.png",
     "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-10-07 в 20.52.35.png",
     "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-10-07 в 20.50.17.png",
     "ProductManagement/Case evenings/Seminar 5.md",
-    "ProductManagement/ProductMetrics/Seminar 4.md",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 20.16.38.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 19.57.42.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 19.54.53.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 19.52.21.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 19.24.15.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 19.23.31.png",
-    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-07 в 19.23.19.png",
     "ProductManagement/Case evenings/Seminar 4.md",
     "ProductManagement/Case evenings/Seminar 3.md",
     "ProductManagement/Case evenings/Seminar 2.md",
@@ -170,7 +171,6 @@
     "Fundamentals/SQL_DB/Lections/Lection 1.md",
     "ProductManagement/ProductMetrics/Seminar 2.md",
     "ProductManagement/ProductMetrics/Seminar 3.md",
-    "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
     "Fundamentals/Statistics/Lections/Lection 1.md",
     "Fundamentals/Statistics/Lections/Lection 3..md",
     "Flex/MockInterview/Lection 4.md",
