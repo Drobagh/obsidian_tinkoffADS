@@ -32,3 +32,15 @@ Var(X) - дисперсия
 
 Состоятельность (consistent)
 ![[Снимок экрана 2024-10-02 в 21.57.54.png]]
+
+![[Снимок экрана 2024-10-12 в 10.23.34.png]]
+1. unbiased + inconsistent
+	$E(x_1) = \mu$, n ни на что не влияет
+	
+2. unbiased + consistent
+	unbiased - аддитивность E $= \mu$
+	consistent - ЗБЧ
+3. biased + incosistent
+	![[Снимок экрана 2024-10-12 в 10.28.25.png]]
+4. biased + consistent
+	![[Снимок экрана 2024-10-12 в 10.29.03.png]]
