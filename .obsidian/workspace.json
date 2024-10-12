@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 1.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 1.md"
+                "file": "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md"
               }
             }
           }
@@ -161,11 +161,14 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
-    "Fundamentals/Statistics/Lections/Lection 5.md",
     "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
+    "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-12 в 13.08.27.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-12 в 13.05.05.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-12 в 13.04.52.png",
+    "Fundamentals/Statistics/Lections/Lection 1.md",
     "Fundamentals/Statistics/Lections/Lection 3..md",
     "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
-    "Fundamentals/Statistics/Lections/Lection 1.md",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-12 в 11.05.37.png",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-12 в 11.04.49.png",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-12 в 11.04.24.png",
@@ -174,9 +177,6 @@
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-12 в 10.23.34.png",
     "ProductManagement/ProductMetrics/Seminar 4.md",
     "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-10-07 в 21.01.02.png",
-    "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-10-07 в 20.53.06.png",
-    "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-10-07 в 20.52.35.png",
-    "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-10-07 в 20.50.17.png",
     "ProductManagement/Case evenings/Seminar 5.md",
     "ProductManagement/Case evenings/Seminar 4.md",
     "ProductManagement/Case evenings/Seminar 3.md",
