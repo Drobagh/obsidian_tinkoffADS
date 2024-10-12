@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md"
+                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
+    "Fundamentals/Statistics/Lections/Lection 3..md",
+    "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
     "Fundamentals/Statistics/Lections/Lection 1.md",
     "Fundamentals/Statistics/Lections/Lection 5.md",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-12 в 11.05.37.png",
@@ -185,11 +187,9 @@
     "Fundamentals/SQL_DB/Lections/Lection 1.md",
     "ProductManagement/ProductMetrics/Seminar 2.md",
     "ProductManagement/ProductMetrics/Seminar 3.md",
-    "Fundamentals/Statistics/Lections/Lection 3..md",
     "Flex/MockInterview/Lection 4.md",
     "Fundamentals/SQL_DB/Lections/Info.md",
     "Fundamentals/Python for AD/Practice/Practice 2. Факторный анализ.md",
-    "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
     "Fundamentals/Python for AD/Practice/Contents_",
     "Fundamentals/Python for AD/Lections/Lection 2. Факторный анализ.md",
     "Flex/MockInterview/Lection 2.md",
