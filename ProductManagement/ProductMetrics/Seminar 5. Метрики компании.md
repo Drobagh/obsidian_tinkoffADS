@@ -14,6 +14,7 @@ CSI(Customer Satisfaction Index) = avg score
 
 ![[Снимок экрана 2024-10-14 в 20.47.50.png]]
 ## Поддержка
+![[Снимок экрана 2024-10-15 в 00.55.25.png]]
 - FCR (First Contact Resolution) %
 ![[Снимок экрана 2024-10-14 в 21.07.24.png]]
 - Success resolution rate
