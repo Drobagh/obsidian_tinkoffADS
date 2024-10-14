@@ -23,7 +23,9 @@ ORDER BY условие_сортировки
 - используются для получения агрегированных значений (COUNT, SUM, AVG) и включения их во внешний запрос;
 - позволяют сравнивать данные из разных таблиц или таблицы с самой собой.
 
-## Скалярные подзапросы
+## Некоррелированные подзапросы
+Независимые
+### Скалярные подзапросы
 - Возвращают одно значение, которое используется во внешнем запросе.
 - Часто используются для сравнения или фильтрации данных
 
@@ -33,6 +35,23 @@ FROM Customers
 WHERE CustomerID = (SELECT CustomerID FROM Orders WHERE OrderID = 12345);
 ```
 
+### Многострочные подзапросы
+- Возвращают несколько строк данных, которые используются во внешнем запросе.
+- Часто используются с операторами IN для проверки членства или наличия данных.
+```sql
+SELECT OrderID, ProductName
+FROM Orders WHERE ProductID IN (
+	SELECT ProductID
+	FROM Products
+	WHERE CategoryID = 'Electronics'
+);
+```
+
+### Многостолбцовые подзапросы
+```sql
+SELECT * FROM Reservations
+    WHERE (room_id, price) IN (SELECT id, price FROM Rooms);
+```
 ## Коррелированные подзапросы
 - Используют значения из внешнего запроса для фильтрации данных во внутреннем подзапросе.
 - Позволяют выполнять более сложные операции с данными из разных таблиц.
@@ -45,18 +64,14 @@ WHERE Price > (SELECT AVG(Price)
 			   WHERE CategoryID = Products.CategoryID);
 ```
 
-## Многострочные подзапросы
-- Возвращают несколько строк данных, которые используются во внешнем запросе.
-- Часто используются с операторами IN для проверки членства или наличия данных.
 ```sql
-SELECT OrderID, ProductName
-FROM Orders WHERE ProductID IN (
-	SELECT ProductID
-	FROM Products
-	WHERE CategoryID = 'Electronics'
-);
+SELECT FamilyMembers.member_name, (
+    SELECT SUM(Payments.unit_price * Payments.amount)
+    FROM Payments
+    WHERE Payments.family_member = FamilyMembers.member_id
+) AS total_spent
+FROM FamilyMembers;
 ```
-
 ## Подзапросы в FROM
 - Возвращают несколько строк данных, которые используются во внешнем запросе.
 ```sql
