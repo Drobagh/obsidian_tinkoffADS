@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 1.md",
+                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 1.md",
+                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 1.md",
+                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 1.md"
+                "file": "Fundamentals/SQL_DB/Lections/Lection 3.md"
               }
             }
           }
@@ -162,9 +162,9 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
+    "ProductManagement/Case evenings/Seminar 1.md",
     "ProductManagement/Case evenings/Seminar 3.md",
     "ProductManagement/Case evenings/Seminar 2.md",
-    "ProductManagement/Case evenings/Seminar 1.md",
     "ProductManagement/Case evenings/Authors.md",
     "ProductManagement/Case evenings/Seminar 4.md",
     "ProductManagement/Case evenings/Seminar 5.md",
