@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 6.  Введение в гипотезы.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 6.  Введение в гипотезы.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 6.  Введение в гипотезы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md"
+                "file": "Fundamentals/Statistics/Lections/Lection 6.  Введение в гипотезы.md"
               }
             }
           }
@@ -161,21 +161,23 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 21.27.05.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 21.16.39.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 21.15.18.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 21.06.56.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 21.05.56.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 21.04.50.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 21.01.56.png",
     "Fundamentals/Statistics/Lections/Lection 1.md",
+    "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 20.49.09.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 20.46.17.png",
+    "Fundamentals/Statistics/Lections/Lection 6.  Введение в гипотезы.md",
     "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
-    "Fundamentals/Statistics/Lections/Lection 3..md",
     "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
+    "Fundamentals/Statistics/Lections/Lection 3..md",
     "Fundamentals/Statistics/Lections/Contents_/Pasted image 20241016162826.png",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 15.36.11.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 15.27.19.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 15.26.29.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 15.21.21.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 15.12.07.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 15.11.29.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 15.10.53.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-10-16 в 14.59.39.png",
-    "Fundamentals/Statistics/Lections/Contents_/Pasted image 20241016145813.png",
-    "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md",
     "ProductManagement/ProductMetrics/Seminar 5. Метрики компании.md",
     "ProductManagement/Case evenings/Seminar 6.md",
     "ProductManagement/Case evenings/Authors.md",
@@ -196,7 +198,6 @@
     "Fundamentals/Python for AD/Practice/Contents_",
     "Fundamentals/Python for AD/Lections/Lection 2. Факторный анализ.md",
     "Flex/MockInterview/Lection 2.md",
-    "Flex/MockInterview/Lection 1. Карьерная цель.md",
     "Flex/Contents_",
     "Fundamentals/Python for AD/Practice",
     "Fundamentals/Python for AD/Lections",
