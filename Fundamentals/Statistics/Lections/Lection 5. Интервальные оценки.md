@@ -29,7 +29,13 @@ CI - доверительный интервал
 
 ==Bootstrap== - методология повторного отбора выборок для корректировки смещения, тестирования гипотез, построения доверительных интервалов.
 
-
+``` python
+saved_means = []
+for _ in range (10000):
+	subsample = random.choices(observed_vector, k=len(observed_vector))
+	mean_of_subsample = np.mean(subsample)
+	saved_means.append(mean_of_subsample)
+```
 
 
 ![[Снимок экрана 2024-10-16 в 20.46.17.png]]
