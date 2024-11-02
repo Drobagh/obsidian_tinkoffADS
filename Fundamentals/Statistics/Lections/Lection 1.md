@@ -81,6 +81,7 @@ $\displaystyle \operatorname {D}[X] = \frac{(b - a)^2}{12}$
 ![[Снимок экрана 2024-10-16 в 15.27.19.png]]
 ### Экспоненциальное распределение
 ### Нормальное (Гаусса)
+$np . random . normal ( loc = \mu, scale = \sigma , size = SIZE)$
 
 #### Правило 3-$\sigma$
 ![[Pasted image 20241016162826.png]]
