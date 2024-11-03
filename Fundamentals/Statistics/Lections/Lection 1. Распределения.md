@@ -30,7 +30,6 @@ $\mathbb{P}(X=0)=q$
 $\displaystyle \mathbb {E} [X]=p$
 $\displaystyle \operatorname {D} [X]=p(1-p)=pq$, так как: $E⁡X^2−(E⁡X)^2=p−p2=p⋅(1−p)=pq$
 ![[Снимок экрана 2024-10-16 в 14.54.17.png]]
-
 ### Биномиальное распределение
 Bin(n, p)
 ![[Снимок экрана 2024-10-16 в 14.56.49.png]]
