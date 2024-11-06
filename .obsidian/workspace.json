@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 7.md",
+                "file": "Flex/MockInterview/Lection 5. Зарплатные ожидания.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seminar 7"
+              "title": "Lection 5. Зарплатные ожидания"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 7.md"
+                "file": "Flex/MockInterview/Lection 5. Зарплатные ожидания.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Seminar 7"
+              "title": "Outline of Lection 5. Зарплатные ожидания"
             }
           }
         ],
@@ -193,11 +193,12 @@
   },
   "active": "99681643d4403f5f",
   "lastOpenFiles": [
+    "ProductManagement/Case evenings/Seminar 7.md",
+    "Flex/MockInterview/Lection 5. Зарплатные ожидания.md",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-11-06 в 22.04.51.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-11-06 в 21.37.58.png",
     "ProductManagement/Case evenings/Contents_/Pasted image 20241106213551.png",
     "ProductManagement/Case evenings/Authors.md",
-    "ProductManagement/Case evenings/Seminar 7.md",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-11-06 в 21.15.09.png",
     "ProductManagement/Case evenings/Seminar 6.md",
     "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md",
@@ -211,7 +212,6 @@
     "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
     "Fundamentals/Statistics/Lections/Lection 3. МатОжид и Дисперсия.md",
     "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-11-02 в 22.59.24.png",
     "Fundamentals/Statistics/Lections/Lection 6.  Введение в гипотезы.md",
     "Fundamentals/Statistics/Lections/Lection 7..md",
     "ProductManagement/Case evenings/Lection 8..md",
