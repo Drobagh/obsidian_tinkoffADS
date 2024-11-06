@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 6.md",
+                "file": "ProductManagement/Case evenings/Seminar 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seminar 6"
+              "title": "Seminar 7"
             }
           }
         ],
@@ -168,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 6.md"
+                "file": "ProductManagement/Case evenings/Seminar 7.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Seminar 6"
+              "title": "Outline of Seminar 7"
             }
           }
         ],
@@ -193,6 +193,8 @@
   },
   "active": "99681643d4403f5f",
   "lastOpenFiles": [
+    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-11-06 в 21.15.09.png",
+    "ProductManagement/Case evenings/Seminar 6.md",
     "ProductManagement/Case evenings/Seminar 7.md",
     "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md",
     "Fundamentals/Statistics/Lections/Lection 1. Распределения.md",
@@ -212,7 +214,6 @@
     "ProductManagement/Case evenings/Lection 8..md",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-28 в 20.19.10.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-10-28 в 20.18.26.png",
-    "ProductManagement/Case evenings/Seminar 6.md",
     "ProductManagement/ProductMetrics/Seminar 5. Метрики компании.md",
     "ProductManagement/Case evenings/Authors.md",
     "ProductManagement/Case evenings/Seminar 1.md",
@@ -228,7 +229,6 @@
     "ProductManagement/ProductMetrics/Seminar 3.md",
     "Flex/MockInterview/Lection 4.md",
     "Fundamentals/SQL_DB/Lections/Info.md",
-    "Fundamentals/Python for AD/Practice/Practice 2. Факторный анализ.md",
     "Fundamentals/Python for AD/Practice/Contents_",
     "Flex/Contents_",
     "Fundamentals/Python for AD/Practice",
