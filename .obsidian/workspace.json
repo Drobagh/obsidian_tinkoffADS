@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "Lection 6.  Введение в гипотезы"
             }
+          },
+          {
+            "id": "e0a0233c171039bf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -191,7 +203,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99681643d4403f5f",
+  "active": "e0a0233c171039bf",
   "lastOpenFiles": [
     "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md",
     "Fundamentals/Statistics/Lections/Lection 6.  Введение в гипотезы.md",
