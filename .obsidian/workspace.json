@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "Seminar 6"
             }
+          },
+          {
+            "id": "37d672a7cdd8df73",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -205,7 +217,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e0a0233c171039bf",
+  "active": "37d672a7cdd8df73",
   "lastOpenFiles": [
     "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-11-11 в 20.50.50.png",
     "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-11-11 в 20.43.30.png",
