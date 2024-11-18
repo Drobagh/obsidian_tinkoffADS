@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 9.md",
+                "file": "ProductManagement/ProductMetrics/Seminar 7. Product Strategy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seminar 9"
+              "title": "Seminar 7. Product Strategy"
             }
           }
         ],
@@ -196,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/Case evenings/Seminar 9.md"
+                "file": "ProductManagement/ProductMetrics/Seminar 7. Product Strategy.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Seminar 9"
+              "title": "Outline of Seminar 7. Product Strategy"
             }
           }
         ],
@@ -222,6 +222,9 @@
   },
   "active": "37d672a7cdd8df73",
   "lastOpenFiles": [
+    "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-11-18 в 20.45.46.png",
+    "ProductManagement/Case evenings/Seminar 9.md",
+    "ProductManagement/ProductMetrics/Seminar 7. Product Strategy.md",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-11-18 в 19.38.03.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-11-18 в 19.36.55.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-11-18 в 19.31.04.png",
@@ -232,9 +235,7 @@
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-11-18 в 19.26.19.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-11-18 в 19.26.01.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-11-18 в 19.24.56.png",
-    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-11-18 в 19.22.34.png",
     "ProductManagement/Case evenings/Seminar 7.md",
-    "ProductManagement/Case evenings/Seminar 9.md",
     "ProductManagement/Case evenings/Seminar 8. 3C + Презентации.md",
     "ProductManagement/Case evenings/Seminar 6.md",
     "Fundamentals/Statistics/Lections/Lection 1. Распределения.md",
@@ -258,7 +259,6 @@
     "ProductManagement/Case evenings/Authors.md",
     "ProductManagement/Case evenings/Lection 8..md",
     "ProductManagement/Case evenings/Seminar 1.md",
-    "ProductManagement/Case evenings/Seminar 2.md",
     "Fundamentals/Python for AD/Practice/Contents_",
     "Flex/Contents_",
     "Fundamentals/Python for AD/Practice",
