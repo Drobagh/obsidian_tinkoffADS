@@ -210,10 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/ProductMetrics/Seminar 7. Product Strategy.md"
+                "file": "Fundamentals/Statistics/Lections/Lection 6.  Введение в гипотезы.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Seminar 7. Product Strategy"
+              "title": "Outline of Lection 6.  Введение в гипотезы"
             }
           }
         ],
@@ -221,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
