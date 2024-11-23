@@ -221,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,11 +236,13 @@
   },
   "active": "7adaedcb2565393f",
   "lastOpenFiles": [
-    "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md",
-    "Fundamentals/Statistics/Lections/Lection 7. p-value.md",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-11-23 в 19.32.40.png",
     "Fundamentals/Statistics/Lections/Lection 6.  Введение в гипотезы.md",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-11-23 в 19.59.26.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-11-23 в 19.59.00.png",
     "Fundamentals/Statistics/Lections/Lection 1. Распределения.md",
+    "Fundamentals/Statistics/Lections/Lection 7. p-value.md",
+    "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-11-23 в 19.32.40.png",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-11-23 в 14.45.22.png",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-11-23 в 14.43.38.png",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-11-23 в 14.42.19.png",
@@ -247,8 +250,6 @@
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-11-23 в 14.39.46.png",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-11-23 в 14.39.12.png",
     "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-11-23 в 14.36.38.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-11-23 в 14.33.14.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-11-23 в 14.32.27.png",
     "ProductManagement/Case evenings/Seminar 9.md",
     "ProductManagement/ProductMetrics/Seminar 7. Product Strategy.md",
     "ProductManagement/Case evenings/Seminar 7.md",
