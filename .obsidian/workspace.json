@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flex/ProductHub/CaseNight.md",
+                "file": "Fundamentals/Statistics/Lections/Examen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CaseNight"
+              "title": "Examen"
             }
           }
         ],
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flex/ProductHub/CaseNight.md"
+                "file": "Fundamentals/Statistics/Lections/Examen.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CaseNight"
+              "title": "Outline of Examen"
             }
           }
         ],
@@ -179,8 +179,15 @@
   },
   "active": "7adaedcb2565393f",
   "lastOpenFiles": [
-    "ProductManagement/GoPractice/LTV.md",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-12-20 в 15.15.20.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-12-20 в 15.13.55.png",
+    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-12-20 в 14.51.01.png",
+    "Flex/MockInterview/Lection 1. Карьерная цель.md",
+    "Fundamentals/Statistics/Lections/Examen.md",
+    "2024-12-18.md",
+    "Flex/MockInterview/Lection 2.md",
     "Flex/ProductHub/CaseNight.md",
+    "ProductManagement/GoPractice/LTV.md",
     "Flex/ProductHub",
     "ProductManagement/GoPractice/Metrics.md",
     "ProductManagement/GoPractice/MAU.md",
@@ -207,15 +214,8 @@
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-12-02 в 21.12.41.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-12-02 в 21.04.04.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-12-02 в 20.54.42.png",
-    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-12-02 в 20.48.34.png",
-    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-12-02 в 20.40.41.png",
     "ProductManagement/Case evenings/Seminar 10.md",
     "Fundamentals/SQL_DB/Lections/Info.md",
-    "Fundamentals/SQL_DB/Lections/Lection 3.md",
-    "Fundamentals/SQL_DB/Lections/Lection 2.md",
-    "Fundamentals/Statistics/Lections/Lection 1. Распределения.md",
-    "Flex/MockInterview/Lection 4.md",
-    "Flex/MockInterview/Lection 5. Зарплатные ожидания.md",
     "ProductManagement/TechPred",
     "Fundamentals/Python for AD/Practice/Contents_",
     "Flex/Contents_",
