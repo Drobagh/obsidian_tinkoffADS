@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 1. Распределения.md",
+                "file": "ProductManagement/ProductMetrics/Seminar 8. АБтесты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lection 1. Распределения"
+              "title": "Seminar 8. АБтесты"
+            }
+          },
+          {
+            "id": "561f111c929f2fc4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-16 в 21.41.30.png"
+              },
+              "icon": "lucide-image",
+              "title": "Снимок экрана 2024-09-16 в 21.41.30"
             }
           }
         ],
@@ -154,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 1. Распределения.md"
+                "file": "ProductManagement/ProductMetrics/Seminar 8. АБтесты.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lection 1. Распределения"
+              "title": "Outline of Seminar 8. АБтесты"
             }
           }
         ],
@@ -179,6 +191,11 @@
   },
   "active": "7adaedcb2565393f",
   "lastOpenFiles": [
+    "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
+    "ProductManagement/ProductMetrics/Seminar 8. АБтесты.md",
+    "ProductManagement/ProductMetrics/Seminar 2.md",
+    "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-16 в 21.41.30.png",
+    "Fundamentals/Statistics/Lections/Lection 1. Распределения.md",
     "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
     "Fundamentals/Statistics/Lections/Lection 3. МатОжид и Дисперсия.md",
     "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
@@ -200,10 +217,8 @@
     "ProductManagement/ProductMetrics/Seminar 6.md",
     "ProductManagement/ProductMetrics/Seminar 5. Метрики компании.md",
     "ProductManagement/ProductMetrics/Seminar 4.md",
-    "ProductManagement/ProductMetrics/Seminar 2.md",
     "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md",
     "Fundamentals/Statistics/Lections/Lection 7. p-value.md",
-    "ProductManagement/ProductMetrics/Seminar 8. АБтесты.md",
     "ProductManagement/Case evenings/Seminar 9.md",
     "ProductManagement/Case evenings/Seminar 11.md",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-12-02 в 21.39.02.png",
@@ -212,9 +227,6 @@
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-12-02 в 21.21.54.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-12-02 в 21.18.24.png",
     "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-12-02 в 21.12.41.png",
-    "ProductManagement/Case evenings/Contents_/Снимок экрана 2024-12-02 в 21.04.04.png",
-    "ProductManagement/Case evenings/Seminar 10.md",
-    "Fundamentals/SQL_DB/Lections/Info.md",
     "ProductManagement/TechPred",
     "Fundamentals/Python for AD/Practice/Contents_",
     "Flex/Contents_",
