@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "4821ac6375ad3ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flex/Winter Product Bootcamp/Lection 2. Анализ конкурентов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lection 2. Анализ конкурентов"
+            }
+          },
+          {
             "id": "561f111c929f2fc4",
             "type": "leaf",
             "state": {
@@ -33,7 +47,8 @@
               "title": "Снимок экрана 2024-09-16 в 21.41.30"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flex/Winter Product Bootcamp/Lection 1. JTBD.md"
+                "file": "Flex/Winter Product Bootcamp/Lection 2. Анализ конкурентов.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lection 1. JTBD"
+              "title": "Outline of Lection 2. Анализ конкурентов"
             }
           }
         ],
@@ -174,16 +189,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eb2c33bbd6c4666",
+  "active": "4821ac6375ad3ce2",
   "lastOpenFiles": [
-    "Flex/Winter Product Bootcamp/About.md",
+    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250128192443.png",
+    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250128192341.png",
+    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250128191904.png",
+    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250128191530.png",
+    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250128191516.png",
+    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250128191244.png",
     "Flex/Winter Product Bootcamp/Lection 1. JTBD.md",
+    "Flex/Winter Product Bootcamp/Lection 2. Анализ конкурентов.md",
+    "Flex/Winter Product Bootcamp/About.md",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250127193553.png",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250127193223.png",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250127192853.png",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250127192446.png",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250127191702.png",
-    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250127191219.png",
     "Flex/Winter Product Bootcamp/Contents_",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
     "Flex/Winter Product Bootcamp",
@@ -198,7 +219,6 @@
     "Fundamentals/Statistics/Lections/Lection 6.  Введение в гипотезы.md",
     "Fundamentals/Statistics/Lections/Lection 2. Точечные оценки.md",
     "ProductManagement/Case evenings/Seminar 3.md",
-    "ProductManagement/Case evenings/Contents_/Pasted image 20241227204311.png",
     "ProductManagement/Case evenings/Seminar 4.md",
     "ProductManagement/Case evenings/Seminar 5.md",
     "ProductManagement/Case evenings/Seminar 6.md",
@@ -209,10 +229,6 @@
     "ProductManagement/Case evenings/Seminar 8. 3C + Презентации.md",
     "ProductManagement/Case evenings/Seminar 7.md",
     "ProductManagement/Case evenings/Authors.md",
-    "ProductManagement/ProductMetrics/Seminar 8. АБтесты.md",
-    "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-16 в 21.41.30.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-12-20 в 15.15.20.png",
-    "Fundamentals/Statistics/Lections/Contents_/Снимок экрана 2024-12-20 в 15.13.55.png",
     "Flex/ProductHub",
     "ProductManagement/TechPred",
     "Fundamentals/Python for AD/Practice/Contents_",
