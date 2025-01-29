@@ -1,4 +1,4 @@
-![[Pasted image 20250129192226.png]]
+![[Reg.png]]
 ![[Pasted image 20250129191605.png]]
 # Лоуфай-макеты
 ![[Pasted image 20250129191850.png]]
