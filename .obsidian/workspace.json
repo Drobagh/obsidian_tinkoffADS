@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flex/Winter Product Bootcamp/Lection 3. Флоу чарты.md",
+                "file": "Flex/Winter Product Bootcamp/Lection 5..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lection 3. Флоу чарты"
+              "title": "Lection 5."
             }
           },
           {
@@ -180,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flex/Winter Product Bootcamp/Lection 3. Флоу чарты.md"
+                "file": "Flex/Winter Product Bootcamp/Lection 5..md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lection 3. Флоу чарты"
+              "title": "Outline of Lection 5."
             }
           }
         ],
@@ -205,6 +205,12 @@
   },
   "active": "717a68c40b30b4db",
   "lastOpenFiles": [
+    "Flex/Winter Product Bootcamp/Lection 4. Коридорные исследования.md",
+    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250131192524.png",
+    "Flex/Winter Product Bootcamp/Lection 5..md",
+    "Fundamentals/SQL_DB/Lections/Lection 3.md",
+    "Fundamentals/SQL_DB/Lections/Lection 2.md",
+    "Flex/Winter Product Bootcamp/Lection 3. Флоу чарты.md",
     "Flex/Winter Product Bootcamp/Contents_/Флоучарты + лоуфай макеты (перетянутый) 1.pdf",
     "Flex/Winter Product Bootcamp/Contents_/Флоучарты + лоуфай макеты (перетянутый).pdf",
     "Flex/Winter Product Bootcamp/Contents_/Reg.png",
@@ -214,12 +220,10 @@
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250129191850.png",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250129191605.png",
     "Flex/Winter Product Bootcamp/About.md",
-    "Flex/Winter Product Bootcamp/Lection 3. Флоу чарты.md",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250129191509.png",
     "Flex/Winter Product Bootcamp/Lection 2. Анализ конкурентов.md",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250128192443.png",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250128192341.png",
-    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250128191904.png",
     "Flex/Winter Product Bootcamp/Lection 1. JTBD.md",
     "Flex/Winter Product Bootcamp/Contents_",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
@@ -240,16 +244,11 @@
     "ProductManagement/Case evenings/Seminar 6.md",
     "ProductManagement/Case evenings/Seminar 1.md",
     "ProductManagement/Case evenings/Seminar 2.md",
-    "ProductManagement/Case evenings/Lection 8..md",
-    "ProductManagement/Case evenings/Seminar 9.md",
-    "ProductManagement/Case evenings/Seminar 8. 3C + Презентации.md",
-    "ProductManagement/Case evenings/Seminar 7.md",
     "Flex/ProductHub",
     "ProductManagement/TechPred",
     "Fundamentals/Python for AD/Practice/Contents_",
     "Flex/Contents_",
     "Fundamentals/Python for AD/Practice",
-    "Fundamentals/Python for AD/Lections",
-    "Fundamentals/Statistics/Lections/Contents_"
+    "Fundamentals/Python for AD/Lections"
   ]
 }
