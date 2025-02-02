@@ -41,12 +41,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flex/Winter Product Bootcamp/Lection 5..md",
+                "file": "Flex/Winter Product Bootcamp/Lection 3. Флоу чарты.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lection 5."
+              "title": "Lection 3. Флоу чарты"
+            }
+          },
+          {
+            "id": "89a41af2bf4a8e64",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
             }
           },
           {
@@ -62,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,7 +93,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -180,10 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Flex/Winter Product Bootcamp/Lection 5..md"
+                "file": "Flex/Winter Product Bootcamp/Lection 3. Флоу чарты.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lection 5."
+              "title": "Outline of Lection 3. Флоу чарты"
             }
           }
         ],
@@ -203,11 +219,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "717a68c40b30b4db",
+  "active": "89a41af2bf4a8e64",
   "lastOpenFiles": [
+    "Flex/Winter Product Bootcamp/Lection 5..md",
     "Flex/Winter Product Bootcamp/Lection 4. Коридорные исследования.md",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250131192524.png",
-    "Flex/Winter Product Bootcamp/Lection 5..md",
     "Fundamentals/SQL_DB/Lections/Lection 3.md",
     "Fundamentals/SQL_DB/Lections/Lection 2.md",
     "Flex/Winter Product Bootcamp/Lection 3. Флоу чарты.md",
