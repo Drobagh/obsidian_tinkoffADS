@@ -223,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,6 +238,12 @@
   },
   "active": "895a3719b388009f",
   "lastOpenFiles": [
+    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250203212641.png",
+    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250203212635.png",
+    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250203212346.png",
+    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250203211847.png",
+    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250203211627.png",
+    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250203211322.png",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250203210800.png",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250203205843.png",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250203205827.png",
@@ -251,13 +258,7 @@
     "Flex/Winter Product Bootcamp/Contents_/Флоучарты + лоуфай макеты (перетянутый) 1.pdf",
     "Flex/Winter Product Bootcamp/Contents_/Флоучарты + лоуфай макеты (перетянутый).pdf",
     "Flex/Winter Product Bootcamp/Contents_/Reg.png",
-    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250129192257.png",
-    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250129192226.png",
-    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250129192020.png",
-    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250129191850.png",
-    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250129191605.png",
     "Flex/Winter Product Bootcamp/About.md",
-    "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250129191509.png",
     "Flex/Winter Product Bootcamp/Lection 2. Анализ конкурентов.md",
     "Flex/Winter Product Bootcamp/Lection 1. JTBD.md",
     "Flex/Winter Product Bootcamp/Contents_",
