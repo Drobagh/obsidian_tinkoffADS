@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement 2.0/Lection 1. Навыки системного мышления.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 7. p-value.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lection 1. Навыки системного мышления"
+              "title": "Lection 7. p-value"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement 2.0/Lection 1. Навыки системного мышления.md",
+                "file": "Fundamentals/Statistics/Lections/Lection 7. p-value.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lection 1. Навыки системного мышления"
+              "title": "Outline of Lection 7. p-value"
             }
           }
         ],
@@ -166,35 +166,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eb2c33bbd6c4666",
+  "active": "7fa5c476569055aa",
   "lastOpenFiles": [
-    "ProductManagement 2.0/Contents_/Pasted image 20250205212930.png",
-    "ProductManagement 2.0/Contents_/Pasted image 20250205212720.png",
-    "ProductManagement 2.0/Contents_/Pasted image 20250205212707.png",
-    "ProductManagement 2.0/Contents_/Pasted image 20250205212657.png",
-    "ProductManagement 2.0/Contents_/Pasted image 20250205212646.png",
-    "ProductManagement 2.0/Contents_/Pasted image 20250205212634.png",
-    "ProductManagement 2.0/Contents_/Pasted image 20250205212444.png",
-    "ProductManagement 2.0/Contents_/Pasted image 20250205212329.png",
-    "ProductManagement 2.0/Contents_/Pasted image 20250205212032.png",
-    "ProductManagement 2.0/Contents_/Pasted image 20250205211912.png",
-    "ProductManagement 2.0/Contents_",
+    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Lection 1. Навыки системного мышления.md",
+    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212930.png",
+    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212720.png",
+    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212707.png",
+    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212657.png",
+    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212646.png",
+    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212634.png",
+    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212444.png",
+    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212329.png",
+    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212032.png",
+    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205211912.png",
+    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_",
     "ProductManagement/TechPred/Lection 1.md",
     "ProductManagement/ProductMetrics/Seminar 9.md",
     "ProductManagement/Case evenings/Seminar 10.md",
-    "ProductManagement 2.0/Lection 1. Навыки системного мышления.md",
     "ProductManagement/ProductMetrics/Seminar 8. АБтесты.md",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
     "ProductManagement/DoingWithProgramWork/Lection 1..md",
     "Flex/Winter Product Bootcamp/Lection 1. JTBD.md",
-    "ProductManagement/ProductMetrics/Contents_/Снимок экрана 2024-09-16 в 21.41.30.png",
     "Flex/Winter Product Bootcamp/Lection 2. Анализ конкурентов.md",
     "Flex/Winter Product Bootcamp/Lection 4. Коридорные исследования.md",
     "Flex/Winter Product Bootcamp/Lection 3. Флоу чарты.md",
     "ProductManagement/DoingWithProgramWork/Contents_",
     "Flex/Winter Product Bootcamp/Lection 1..md",
     "ProductManagement/DoingWithProgramWork",
-    "ProductManagement 2.0",
+    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0",
     "Flex/Winter Product Bootcamp/Lection 5..md",
     "Fundamentals/SQL_DB/Lections/Lection 3.md",
     "Fundamentals/SQL_DB/Lections/Lection 2.md",
