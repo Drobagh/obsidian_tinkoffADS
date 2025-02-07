@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 7. p-value.md",
+                "file": "ProductManagement/Hypotheses/Lection 1..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lection 7. p-value"
+              "title": "Lection 1."
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fundamentals/Statistics/Lections/Lection 7. p-value.md",
+                "file": "ProductManagement/Hypotheses/Lection 1..md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lection 7. p-value"
+              "title": "Outline of Lection 1."
             }
           }
         ],
@@ -166,20 +166,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fa5c476569055aa",
+  "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
-    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Lection 1. Навыки системного мышления.md",
-    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212930.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212720.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212707.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212657.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212646.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212634.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212444.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212329.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205212032.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_/Pasted image 20250205211912.png",
-    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0/Contents_",
+    "ProductManagement/Hypotheses/Contents_/Pasted image 20250207192544.png",
+    "ProductManagement/Hypotheses/Contents_/Pasted image 20250207192530.png",
+    "ProductManagement/Hypotheses/Contents_/Pasted image 20250207192516.png",
+    "ProductManagement/Hypotheses/Contents_",
+    "Fundamentals/Statistics/Lections/Lection 7. p-value.md",
+    "ProductManagement/Hypotheses/Lection 1..md",
+    "ProductManagement/Hypotheses",
+    "Flex/TechPred/Lection 1.md",
+    "Flex/TechPred",
+    "ProductManagement/ProductManagement&Metrics 2.0/Lection 1. Навыки системного мышления.md",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250205212930.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250205212720.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250205212707.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250205212657.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250205212646.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250205212634.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250205212444.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250205212329.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_",
     "ProductManagement/TechPred/Lection 1.md",
     "ProductManagement/ProductMetrics/Seminar 9.md",
     "ProductManagement/Case evenings/Seminar 10.md",
@@ -193,7 +200,7 @@
     "ProductManagement/DoingWithProgramWork/Contents_",
     "Flex/Winter Product Bootcamp/Lection 1..md",
     "ProductManagement/DoingWithProgramWork",
-    "Fundamentals/SQL_DB/Lections/Contents_/ProductManagement 2.0",
+    "ProductManagement/ProductManagement&Metrics 2.0",
     "Flex/Winter Product Bootcamp/Lection 5..md",
     "Fundamentals/SQL_DB/Lections/Lection 3.md",
     "Fundamentals/SQL_DB/Lections/Lection 2.md",
@@ -201,17 +208,11 @@
     "Flex/Winter Product Bootcamp/Contents_/Флоучарты + лоуфай макеты (перетянутый).pdf",
     "Flex/Winter Product Bootcamp/About.md",
     "Flex/Winter Product Bootcamp/Contents_",
-    "Flex/Winter Product Bootcamp",
     "ProductManagement/ProductMetrics/Seminar 2.md",
     "Flex/MockInterview/Lection 5. Зарплатные ожидания.md",
     "ProductManagement/Case evenings/Generation Theory.md",
     "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md",
     "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
-    "Fundamentals/Statistics/Lections/Lection 3. МатОжид и Дисперсия.md",
-    "Fundamentals/Statistics/Lections/Lection 1. Распределения.md",
-    "Fundamentals/Statistics/Lections/Lection 7. p-value.md",
-    "Fundamentals/Statistics/Lections/Lection 6.  Введение в гипотезы.md",
-    "Flex/ProductHub",
-    "ProductManagement/TechPred"
+    "Fundamentals/Statistics/Lections/Lection 3. МатОжид и Дисперсия.md"
   ]
 }
