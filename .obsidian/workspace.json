@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/ProductManagement&Metrics 2.0/Lection 2..md",
+                "file": "ProductManagement/ProductManagement&Metrics 2.0/Lection 1. Навыки системного мышления.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lection 2."
+              "title": "Lection 1. Навыки системного мышления"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/ProductManagement&Metrics 2.0/Lection 2..md",
+                "file": "ProductManagement/ProductManagement&Metrics 2.0/Lection 1. Навыки системного мышления.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lection 2."
+              "title": "Outline of Lection 1. Навыки системного мышления"
             }
           }
         ],
@@ -168,9 +168,9 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210210124.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
     "ProductManagement/ProductManagement&Metrics 2.0/Lection 1. Навыки системного мышления.md",
-    "ProductManagement/ProductManagement&Metrics 2.0/Lection 2..md",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210210124.png",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210210009.png",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210205946.png",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210205307.png",
@@ -182,7 +182,6 @@
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210204033.png",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
     "ProductManagement/Hypotheses/Lection 1..md",
-    "ProductManagement/Hypotheses/Contents_/Pasted image 20250207205934.png",
     "ProductManagement/Hypotheses/Contents_",
     "Fundamentals/Statistics/Lections/Lection 7. p-value.md",
     "ProductManagement/Hypotheses",
