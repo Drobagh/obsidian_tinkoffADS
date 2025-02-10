@@ -14,6 +14,7 @@
 ![[Pasted image 20250210204218.png]]
 # Пирамида метрик
 ![[Pasted image 20250210204317.png]]
+![[Pasted image 20250211022635.png]]
 # Бизнес-модель (модель монетизации)
 ![[Pasted image 20250210205025.png]]
 # Модель Остервальда (Business Model Canvas)
