@@ -16,4 +16,8 @@
 ![[Pasted image 20250211211846.png]]
 ![[Pasted image 20250211211907.png]]
 ![[Pasted image 20250211213620.png]]
-
+# Kanban
+![[Pasted image 20250211215317.png]]
+# Scrum
+![[Pasted image 20250211215328.png]]
+![[Pasted image 20250211215337.png]]
