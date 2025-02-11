@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
+                "file": "Fundamentals/Python for AD/Lections/Lection 2. Факторный анализ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lection 2. Бизнес-модели и бизнес-метрики"
+              "title": "Lection 2. Факторный анализ"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
+                "file": "Fundamentals/Python for AD/Lections/Lection 2. Факторный анализ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lection 2. Бизнес-модели и бизнес-метрики"
+              "title": "Outline of Lection 2. Факторный анализ"
             }
           }
         ],
@@ -168,10 +168,14 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
+    "Fundamentals/Python for AD/Lections/Untitled.md",
+    "Fundamentals/Python for AD/Lections/Lection 2. Факторный анализ.md",
+    "Fundamentals/Python for AD/Read.me.md",
+    "Fundamentals/Python for AD/Contents_/Pasted image 20250211191234.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250211160857.png",
     "ProductManagement/ProductMetrics/NSM.md",
     "ProductManagement/ProductMetrics/Contents_/Pasted image 20250211152647.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
     "ProductManagement/ProductMetrics/Contents_/Pasted image 20250211151919.png",
     "ProductManagement/ProductMetrics/Contents_/Pasted image 20250211151858.png",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250211122733.png",
@@ -180,8 +184,6 @@
     "ProductManagement/ProductManagement&Metrics 2.0/Lection 1. Навыки системного мышления.md",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210210124.png",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210210009.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210205946.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210205307.png",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
     "ProductManagement/Hypotheses/Lection 1..md",
     "ProductManagement/Hypotheses/Contents_",
@@ -211,8 +213,6 @@
     "Flex/Winter Product Bootcamp/About.md",
     "Flex/Winter Product Bootcamp/Contents_",
     "ProductManagement/ProductMetrics/Seminar 2.md",
-    "Flex/MockInterview/Lection 5. Зарплатные ожидания.md",
-    "ProductManagement/Case evenings/Generation Theory.md",
-    "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md"
+    "Flex/MockInterview/Lection 5. Зарплатные ожидания.md"
   ]
 }
