@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
+                "file": "ProductManagement/ProductMetrics/NSM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lection 2. Бизнес-модели и бизнес-метрики"
+              "title": "NSM"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
+                "file": "ProductManagement/ProductMetrics/NSM.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lection 2. Бизнес-модели и бизнес-метрики"
+              "title": "Outline of NSM"
             }
           }
         ],
@@ -168,19 +168,20 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
+    "ProductManagement/ProductMetrics/Contents_/Pasted image 20250211152647.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
+    "ProductManagement/ProductMetrics/NSM.md",
+    "ProductManagement/ProductMetrics/Contents_/Pasted image 20250211151919.png",
+    "ProductManagement/ProductMetrics/Contents_/Pasted image 20250211151858.png",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250211122733.png",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250211122613.png",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250211022635.png",
     "ProductManagement/ProductManagement&Metrics 2.0/Lection 1. Навыки системного мышления.md",
-    "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210210124.png",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210210009.png",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210205946.png",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210205307.png",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210205204.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210205025.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210204317.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250210204218.png",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
     "ProductManagement/Hypotheses/Lection 1..md",
     "ProductManagement/Hypotheses/Contents_",
@@ -212,7 +213,6 @@
     "ProductManagement/ProductMetrics/Seminar 2.md",
     "Flex/MockInterview/Lection 5. Зарплатные ожидания.md",
     "ProductManagement/Case evenings/Generation Theory.md",
-    "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md",
-    "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md"
+    "Fundamentals/Statistics/Lections/Lection 5. Интервальные оценки.md"
   ]
 }
