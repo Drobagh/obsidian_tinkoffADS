@@ -16,8 +16,12 @@
 ![[Pasted image 20250210204317.png]]
 ![[Pasted image 20250211022635.png]]
 ![[Pasted image 20250211122733.png]]
-Loyality - Retention
-Quality - Технические метрики
+- Business (бизнес цели) - Revenue, Profit, метрики инвестора (Retention)
+- Margin (unit-экономика) - LTV, AR(P)PU, C1, CPL, OPEX
+- Loyality - Retention
+- Value
+- Quality - Технические метрики
+- 
 # Бизнес-модель (модель монетизации)
 ![[Pasted image 20250210205025.png]]
 # Модель Остервальда (Business Model Canvas)
