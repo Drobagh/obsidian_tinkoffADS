@@ -19,7 +19,7 @@
 - Business (бизнес цели) - Revenue, Profit, метрики инвестора (Retention)
 - Margin (unit-экономика) - LTV, AR(P)PU, C1, CPL, OPEX
 - Loyality - Retention
-- Value
+- Value (проблема = единая боль) - 
 - Quality - Технические метрики
 - 
 # Бизнес-модель (модель монетизации)
