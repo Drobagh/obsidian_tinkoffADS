@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
+                "file": "Fundamentals/ML/Lection 0. Основные термины.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lection 2. Бизнес-модели и бизнес-метрики"
+              "title": "Lection 0. Основные термины"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
+                "file": "Fundamentals/ML/Lection 0. Основные термины.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lection 2. Бизнес-модели и бизнес-метрики"
+              "title": "Outline of Lection 0. Основные термины"
             }
           }
         ],
@@ -168,10 +168,16 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
+    "Fundamentals/ML/Contents_/Pasted image 20250218154552.png",
+    "Fundamentals/ML/Contents_/Pasted image 20250218154516.png",
+    "Fundamentals/ML/Contents_",
+    "Fundamentals/ML/Lection 1.  Постановка основных задач ML.md",
+    "Fundamentals/ML/Lection 0. Основные термины.md",
+    "Fundamentals/ML",
+    "ProductManagement/ProductManagement&Metrics 2.0/Lection 1. Навыки системного мышления.md",
+    "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
     "ProductManagement/WorkingWithDevTeam/Lection 2. Жизненный цикл разработки.md",
     "Flex/Winter Product Bootcamp/Lection 1. JTBD.md",
-    "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
-    "ProductManagement/ProductManagement&Metrics 2.0/Lection 1. Навыки системного мышления.md",
     "ProductManagement/ProductManagement&Metrics 2.0/Lection 1..md",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250212025054.png",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250212025038.png",
@@ -182,7 +188,6 @@
     "ProductManagement/WorkingWithDevTeam/Contents_/Pasted image 20250211215328.png",
     "ProductManagement/WorkingWithDevTeam/Contents_/Pasted image 20250211215317.png",
     "ProductManagement/WorkingWithDevTeam/Contents_/Pasted image 20250211213620.png",
-    "ProductManagement/WorkingWithDevTeam/Contents_/Pasted image 20250211211907.png",
     "ProductManagement/WorkingWithDevTeam/Lection 1. Состав команды.md",
     "Fundamentals/Python for AD/Lections/Lection 2. Факторный анализ.md",
     "Fundamentals/Python for AD/Lections/Untitled.md",
@@ -208,10 +213,6 @@
     "ProductManagement/ProductManagement&Metrics 2.0",
     "Flex/Winter Product Bootcamp/Lection 5..md",
     "Fundamentals/SQL_DB/Lections/Lection 3.md",
-    "Fundamentals/SQL_DB/Lections/Lection 2.md",
-    "Flex/Winter Product Bootcamp/Contents_/Флоучарты + лоуфай макеты (перетянутый) 1.pdf",
-    "Flex/Winter Product Bootcamp/Contents_/Флоучарты + лоуфай макеты (перетянутый).pdf",
-    "Flex/Winter Product Bootcamp/About.md",
-    "Flex/Winter Product Bootcamp/Contents_"
+    "Flex/Winter Product Bootcamp/Contents_/Флоучарты + лоуфай макеты (перетянутый) 1.pdf"
   ]
 }
