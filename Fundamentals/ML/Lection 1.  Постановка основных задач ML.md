@@ -16,6 +16,7 @@ $$X_{train} = \{(x_1, y_1),...,(x_m, y_m)\}$$
 	1. Многомерная регрессия $Y = \mathbb{R}^l$
 3. Forecasting $X_{train} = \{(x_1, t_1, y_1),...,(x_m, t_m, y_m)\},\ t_1 \le ...  \le t_m$
 
+![[Pasted image 20250220030441.png]]
 ## Loss function
 $$L(y(x),a(x)) = \begin{cases} 
 |y-a|,\quad регрессия\\ 
