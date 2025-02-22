@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/Marketing/Lection 1. Основы.md",
+                "file": "Fundamentals/ML/Lection 2. Метрические алгоритмы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lection 1. Основы"
+              "title": "Lection 2. Метрические алгоритмы"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/Marketing/Lection 1. Основы.md",
+                "file": "Fundamentals/ML/Lection 2. Метрические алгоритмы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lection 1. Основы"
+              "title": "Outline of Lection 2. Метрические алгоритмы"
             }
           }
         ],
@@ -168,24 +168,23 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
+    "Fundamentals/ML/Lection 0. Основные термины.md",
+    "Fundamentals/ML/Lection 2. Метрические алгоритмы.md",
+    "Fundamentals/ML/Contents_/Pasted image 20250222193518.png",
+    "ProductManagement/Marketing/Lection 1. Основы.md",
     "ProductManagement/Marketing/Contents_/Pasted image 20250222173205.png",
     "ProductManagement/Marketing/Contents_/Pasted image 20250222172305.png",
     "ProductManagement/Marketing/Contents_/Pasted image 20250222164323.png",
     "ProductManagement/Marketing/Contents_/Pasted image 20250222163624.png",
     "ProductManagement/Marketing/Contents_/Pasted image 20250222162544.png",
     "Fundamentals/ML/Lection 1.  Постановка основных задач ML.md",
-    "ProductManagement/Marketing/Lection 1. Основы.md",
     "ProductManagement/Marketing/Contents_/Pasted image 20250222121619.png",
     "ProductManagement/Marketing/Contents_/Pasted image 20250222121232.png",
     "ProductManagement/Marketing/Contents_/Pasted image 20250222120352.png",
     "ProductManagement/Marketing/Contents_/Pasted image 20250222112408.png",
-    "ProductManagement/Marketing/Contents_/Pasted image 20250222112358.png",
-    "ProductManagement/Marketing/Contents_/Pasted image 20250222112343.png",
     "ProductManagement/Marketing/Contents_",
-    "Fundamentals/ML/Lection 2. Метрические алгоритмы.md",
     "ProductManagement/Marketing",
     "ProductManagement/Hypotheses/Lection 3. Формулировка гипотез.md",
-    "Fundamentals/ML/Lection 0. Основные термины.md",
     "Fundamentals/Statistics/Lections/Lection 4. Свойства точечных оценок.md",
     "ProductManagement/WorkingWithDevTeam/Lection 2. Жизненный цикл разработки.md",
     "ProductManagement/WorkingWithDevTeam/Lection 3..md",
