@@ -51,3 +51,6 @@ AIDA
 ![[Pasted image 20250222164323.png]]
 ![[Pasted image 20250222172305.png]]
 ![[Pasted image 20250222173205.png]]
+
+Таргетированная реклама - реклама в соцсетях (Vk, Telegram)
+Afilliate - CPA на продукт партнера по ссылке с UTM-канала
