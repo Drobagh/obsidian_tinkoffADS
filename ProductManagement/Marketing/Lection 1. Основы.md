@@ -50,3 +50,4 @@ Through the Line - рек. компании через Интернет, мас�
 AIDA
 ![[Pasted image 20250222164323.png]]
 ![[Pasted image 20250222172305.png]]
+![[Pasted image 20250222173205.png]]
