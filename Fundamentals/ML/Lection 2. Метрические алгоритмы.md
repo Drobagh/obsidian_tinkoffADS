@@ -62,7 +62,7 @@ $$a(x) = \frac{w_1(x)y_1\ +\ ...\ +\ w_m(x)y_m}{w_1(x)\ +\ w_m(x)}$$
 ## Выбор метрики
 ![[Pasted image 20250222200753.png]]
 ![[Pasted image 20250222200823.png]]
-
+![[Pasted image 20250222203940.png]]
 
 
 
