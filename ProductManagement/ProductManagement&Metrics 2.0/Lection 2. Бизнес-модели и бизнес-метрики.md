@@ -18,7 +18,7 @@
 ![[Pasted image 20250211122733.png]]
 - Business (бизнес цели) - Revenue, Profit, метрики инвестора (Retention)
 - Margin (уровень unit-экономики) - LTV, AR(P)PU, C1, CPL, OPEX
-- Loyality - Retention
+- Loyalty - Retention, MAU/DAU
 - Value (ценность - фактическое решение проблемы = единая боль для всех сегментов ЦА)
 - Quality (качества - вероятность решения проблемы) - Технические метрики + качество продукта
 ![[Pasted image 20250211160857.png]]
