@@ -14,9 +14,15 @@
 # B2C & B2B
 ![[Pasted image 20250223202012.png]]
 ![[Pasted image 20250223202025.png]]
-# Особенности b2b
+# Специфика b2b
+
 ![[Pasted image 20250223202718.png]]
 ![[Pasted image 20250223202635.png]]
-
-
-
+# Кейс банк Точка
+![[Pasted image 20250223223017.png]]
+![[Pasted image 20250223223028.png]]
+![[Pasted image 20250223223148.png]]
+![[Pasted image 20250223223158.png]]
+![[Pasted image 20250223223207.png]]
+![[Pasted image 20250223223225.png]]
+![[Pasted image 20250223223238.png]]
