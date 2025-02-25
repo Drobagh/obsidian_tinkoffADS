@@ -3,3 +3,9 @@
 # Типы РК Google
 ![[Pasted image 20250225163800.png]]
 ![[Pasted image 20250225163811.png]]
+# Типы РК Yandex
+![[Pasted image 20250225165125.png]]
+![[Pasted image 20250225165402.png]]
+![[Pasted image 20250225165345.png]]
+
+![[Pasted image 20250225165613.png]]
