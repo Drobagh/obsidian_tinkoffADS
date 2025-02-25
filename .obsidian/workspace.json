@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProductManagement/ProductManagement&Metrics 2.0/Lection 4. Классифайды.md",
+                "file": "ProductManagement/Marketing/Lection 2.  Основы_2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lection 4. Классифайды"
+              "title": "Lection 2.  Основы_2"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/ProductManagement&Metrics 2.0/Lection 4. Классифайды.md",
+                "file": "ProductManagement/Marketing/Lection 2.  Основы_2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lection 4. Классифайды"
+              "title": "Outline of Lection 2.  Основы_2"
             }
           }
         ],
@@ -168,24 +168,25 @@
   },
   "active": "6eb2c33bbd6c4666",
   "lastOpenFiles": [
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224212819.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224212231.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224211340.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224210102.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224205430.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224205421.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224205404.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224204441.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224204220.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224203956.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224203920.png",
-    "ProductManagement/ProductManagement&Metrics 2.0/Lection 3. Воронка привлечения.md",
+    "ProductManagement/Marketing/Contents_/Pasted image 20250225022454.png",
+    "ProductManagement/Marketing/Contents_/Pasted image 20250225022413.png",
+    "ProductManagement/Marketing/Contents_/Pasted image 20250225020718.png",
+    "ProductManagement/Marketing/Lection 1. Основы_1.md",
+    "ProductManagement/Marketing/Lection 2.  Основы_2.md",
+    "Fundamentals/ML/Lection 1.  Постановка основных задач ML.md",
     "ProductManagement/ProductManagement&Metrics 2.0/Lection 4. Классифайды.md",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224215526.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224215442.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224215426.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224215401.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224214554.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224214527.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224214509.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Contents_/Pasted image 20250224212819.png",
+    "ProductManagement/ProductManagement&Metrics 2.0/Lection 3. Воронка привлечения.md",
     "ProductManagement/ProductManagement&Metrics 2.0/Lection 1. Навыки системного мышления.md",
     "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
-    "ProductManagement/Marketing/Lection 1. Основы.md",
     "Fundamentals/ML/Lection 2. Метрические алгоритмы.md",
-    "Fundamentals/ML/Lection 1.  Постановка основных задач ML.md",
     "Fundamentals/ML/Lection 0. Основные термины.md",
     "ProductManagement/Marketing/Contents_",
     "ProductManagement/Marketing",
@@ -211,7 +212,6 @@
     "Flex/TechPred",
     "ProductManagement/ProductManagement&Metrics 2.0/Contents_",
     "ProductManagement/TechPred/Lection 1.md",
-    "ProductManagement/ProductMetrics/Seminar 9.md",
     "ProductManagement/WorkingWithDevTeam/Contents_",
     "ProductManagement/WorkingWithDevTeam"
   ]
