@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7204db3a8d5330cd",
+        "id": "bebc457307de5e86",
         "type": "tabs",
         "children": [
           {
-            "id": "6eb2c33bbd6c4666",
+            "id": "74e169d7e8e259bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProductManagement/Marketing/Lection 3. Контекстная реклама.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lection 3. Контекстная реклама"
+              "title": "New tab"
             }
           }
         ]
@@ -140,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProductManagement/Marketing/Lection 3. Контекстная реклама.md",
+                "file": "Fundamentals/Python for AD/Lections/Lection 2. Факторный анализ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lection 3. Контекстная реклама"
+              "title": "Outline of Lection 2. Факторный анализ"
             }
           }
         ],
@@ -166,21 +162,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6eb2c33bbd6c4666",
+  "active": "7fa5c476569055aa",
   "lastOpenFiles": [
+    "Fundamentals/Python for AD/Lections/Lection 2. Факторный анализ.md",
+    "Fundamentals/Python for AD/Contents_/Снимок экрана 2024-09-17 в 21.05.01.png",
+    "Fundamentals/Python for AD/Contents_/Снимок экрана 2024-09-17 в 21.01.06.png",
+    "Fundamentals/Python for AD/Contents_/Снимок экрана 2024-09-17 в 20.59.26.png",
+    "Fundamentals/Python for AD/Contents_/Снимок экрана 2024-09-17 в 21.00.29.png",
+    "Fundamentals/Python for AD/Read.me.md",
+    "ProductManagement/Marketing/Lection 3. Контекстная реклама.md",
     "ProductManagement/Marketing/Contents_/Pasted image 20250225171825.png",
     "ProductManagement/Marketing/Contents_/Pasted image 20250225165613.png",
     "ProductManagement/Marketing/Contents_/Pasted image 20250225165402.png",
     "ProductManagement/Marketing/Contents_/Pasted image 20250225165345.png",
     "ProductManagement/Marketing/Contents_/Pasted image 20250225165125.png",
     "ProductManagement/Marketing/Contents_/Pasted image 20250225163811.png",
-    "ProductManagement/Marketing/Contents_/Pasted image 20250225163800.png",
     "ProductManagement/Marketing/Lection 2.  Основы_2.md",
-    "ProductManagement/Marketing/Lection 3. Контекстная реклама.md",
-    "ProductManagement/Marketing/Contents_/Pasted image 20250225162353.png",
-    "ProductManagement/Marketing/Contents_/Pasted image 20250225161406.png",
-    "ProductManagement/Marketing/Contents_/Pasted image 20250225154257.png",
-    "ProductManagement/Marketing/Contents_/Pasted image 20250225152831.png",
     "ProductManagement/Marketing/Lection 1. Основы_1.md",
     "Fundamentals/ML/Lection 1.  Постановка основных задач ML.md",
     "ProductManagement/ProductManagement&Metrics 2.0/Lection 4. Классифайды.md",
@@ -200,9 +197,7 @@
     "Fundamentals/ML",
     "Flex/Winter Product Bootcamp/Lection 1. JTBD.md",
     "ProductManagement/ProductManagement&Metrics 2.0/Lection 1..md",
-    "Fundamentals/Python for AD/Lections/Lection 2. Факторный анализ.md",
     "Fundamentals/Python for AD/Lections/Untitled.md",
-    "Fundamentals/Python for AD/Read.me.md",
     "ProductManagement/ProductMetrics/NSM.md",
     "ProductManagement/ProductMetrics/Seminar 1. Introduction.md",
     "ProductManagement/Hypotheses/Lection 1..md",
