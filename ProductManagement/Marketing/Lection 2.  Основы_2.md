@@ -12,6 +12,7 @@
 ![[Pasted image 20250225130614.png]]
 Не подходит для commodity товаров
 ![[Pasted image 20250225130737.png]]
+![[Pasted image 20250225132422.png]]
 
 
 
