@@ -24,5 +24,7 @@ CTR в Поиске - 10%
 ![[Pasted image 20250226165158.png]]
 ![[Pasted image 20250226165419.png]]
 ![[Pasted image 20250226165617.png]]
+![[Pasted image 20250226170217.png]]
+
 
 
