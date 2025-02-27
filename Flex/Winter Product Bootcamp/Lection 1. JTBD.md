@@ -23,6 +23,7 @@ Discovery - минимизация неопределенности
 ![[Pasted image 20250227103850.png]]
 Дерево работ
 ![[Pasted image 20250227104620.png]]
+![[Pasted image 20250227132805.png]]
 
 ![[Pasted image 20250127192446.png]]
 ![[Pasted image 20250127192853.png]]
