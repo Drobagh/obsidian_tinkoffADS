@@ -25,12 +25,14 @@
             "id": "af5930ade14d57a1",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "ProductManagement/Marketing/Lection 1. Основы_1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Lection 1. Основы_1"
             }
           }
         ],
@@ -153,12 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ProductManagement/Marketing/Lection 1. Основы_1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Lection 1. Основы_1"
             }
           }
         ],
@@ -180,6 +183,8 @@
   },
   "active": "af5930ade14d57a1",
   "lastOpenFiles": [
+    "ProductManagement/Marketing/Lection 2.  Основы_2.md",
+    "ProductManagement/Marketing/Lection 3. Контекстная реклама.md",
     "Flex/Winter Product Bootcamp/Zamesin. JTBD.md",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250228171508.png",
     "Flex/Winter Product Bootcamp/Lection 1. JTBD.md",
@@ -193,9 +198,7 @@
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250227102331.png",
     "Flex/Winter Product Bootcamp/Contents_/Pasted image 20250226204949.png",
     "ProductManagement/Marketing/Lection 1. Основы_1.md",
-    "ProductManagement/Marketing/Lection 3. Контекстная реклама.md",
     "ProductManagement/Marketing/Contents_/Pasted image 20250226170217.png",
-    "ProductManagement/Marketing/Lection 2.  Основы_2.md",
     "ProductManagement/ProductManagement&Metrics 2.0/Lection 3. Воронка привлечения.md",
     "ProductManagement/ProductManagement&Metrics 2.0/Lection 2. Бизнес-модели и бизнес-метрики.md",
     "ProductManagement/ProductManagement&Metrics 2.0/Lection 1. Навыки системного мышления.md",
