@@ -12,3 +12,12 @@
 
 ![[Pasted image 20250319191957.png]]
 
+# Telegram ADS
+![[Pasted image 20250319212518.png]]
+![[Pasted image 20250319212603.png]]
+# Vk
+![[Pasted image 20250319212617.png]]
+
+# MyTarget
+![[Pasted image 20250319212701.png]]
+
