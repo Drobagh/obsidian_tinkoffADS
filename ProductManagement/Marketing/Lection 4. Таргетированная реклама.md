@@ -17,7 +17,8 @@
 ![[Pasted image 20250319212603.png]]
 # Vk
 ![[Pasted image 20250319212617.png]]
-
 # MyTarget
 ![[Pasted image 20250319212701.png]]
+# Vk Реклама
+![[Pasted image 20250319213456.png]]
 
