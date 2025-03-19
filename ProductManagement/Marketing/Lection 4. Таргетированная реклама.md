@@ -22,3 +22,4 @@
 # Vk Реклама
 ![[Pasted image 20250319213456.png]]
 
+![[Pasted image 20250319220513.png]]
