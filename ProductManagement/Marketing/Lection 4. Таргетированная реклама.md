@@ -25,3 +25,6 @@
 ![[Pasted image 20250319220513.png]]
 ![[Pasted image 20250319225637.png]]
 eCPM - 100-200 руб
+
+![[Pasted image 20250319233030.png]]
+![[Pasted image 20250319233038.png]]
