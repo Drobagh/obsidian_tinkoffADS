@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Lection 7."
             }
+          },
+          {
+            "id": "4a4dc3ed5fb8a007",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +193,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af5930ade14d57a1",
+  "active": "4a4dc3ed5fb8a007",
   "lastOpenFiles": [
     "ProductManagement/Hypotheses/Contents_/Pasted image 20250321203613.png",
     "ProductManagement/Hypotheses/Contents_/Pasted image 20250321203552.png",
